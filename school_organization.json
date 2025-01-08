@@ -1,0 +1,438 @@
+[
+    {
+        "input": "Was ist das Grabbe-Gymnasium?",
+        "output": "Das Christian-Dietrich-Grabbe-Gymnasium in Detmold ist eines der drei Gymnasien der Stadt. Es ist nach dem deutschen Dramatiker Christian Dietrich Grabbe benannt, der im 19. Jahrhundert lebte und zu den bedeutendsten Dramatikern seiner Zeit z\u00e4hlt. Das Gymnasium bietet eine umfassende schulische Ausbildung bis zum Abitur und ist f\u00fcr seine Bildungsangebote sowie kulturellen und sportlichen Aktivit\u00e4ten bekannt. Oft wird es einfach nur \u201eGrabbe\u201c genannt."
+    },
+    {
+        "input": "Welche Schulart ist das Grabbe-Gymnasium Detmold?",
+        "output": "Das Grabbe-Gymnasium ist ein \u00f6ffentliches Gymnasium."
+    },
+    {
+        "input": "Welche Jahrgangsstufen gibt es am Grabbe-Gymnasium Detmold?",
+        "output": "Am Grabbe-Gymnasium werden die Jahrgangsstufen 5 bis 13 unterrichtet."
+    },
+    {
+        "input": "Ist das Grabbe-Gymnasium Detmold ein Ganztagsgymnasium?",
+        "output": "Nein, das Grabbe-Gymnasium ist kein Ganztagsgymnasium. Der Unterricht findet normalerweise von 7:40 bis 13:00 Uhr statt."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium Detmold eine Sch\u00fclervertretung?",
+        "output": "Ja, am Grabbe-Gymnasium gibt es eine Sch\u00fclervertretung sowie eine Unterstufen-SV."
+    },
+    {
+        "input": "Wie ist das Grabbe-Gymnasium Detmold im \u00d6PNV erreichbar?",
+        "output": "Die Bushaltestelle Weerthplatz, die direkt neben dem Grabbe-Gymnasium liegt, wird von vielen Buslinien angefahren."
+    },
+    {
+        "input": "Kann mein Kind am Grabbe-Gymnasium hospitieren?",
+        "output": "Bitte wende dich an die Schulleitung, Frau Vothknecht, per E-Mail: a.vothknecht@grabbe.nrw.schule, um eine Hospitation anzufragen."
+    },
+    {
+        "input": "Kann mein Kind nachtr\u00e4glich in das Grabbe-Gymnasium eintreten?",
+        "output": "F\u00fcr Informationen zum nachtr\u00e4glichen Eintritt deines Kindes wende dich bitte an die Schulleitung, Frau Vothknecht, per E-Mail: a.vothknecht@grabbe.nrw.schule."
+    },
+    {
+        "input": "Nach welchem Lehrplan unterrichtet das Grabbe-Gymnasium?",
+        "output": "Die Lehrpl\u00e4ne des Grabbe-Gymnasiums findest du hier: http://www.grabbe-gymnasium.de/infos/unterricht/?Lehrplaene_usw."
+    },
+    {
+        "input": "Bietet das Grabbe-Gymnasium Schulsozialarbeit an?",
+        "output": "Ja, das Grabbe-Gymnasium bietet Schulsozialarbeit an. Unsere Schulsozialarbeiterin Sylvia M\u00f6bus ist telefonisch unter 05231 9926280 oder per E-Mail an s.moebus@grabbe.nrw.schule erreichbar."
+    },
+    {
+        "input": "Wie kann ich mich als Eltern am Grabbe-Gymnasium engagieren?",
+        "output": "Du kannst dich beispielsweise als Elternvertreter in der Klasse deines Kindes w\u00e4hlen lassen oder dem F\u00f6rderverein beitreten."
+    },
+    {
+        "input": "Wer ist der derzeitige Sch\u00fclersprecher des Grabbe-Gymnasiums?",
+        "output": "Der derzeitige Sch\u00fclersprecher ist Georg Vladimirskij."
+    },
+    {
+        "input": "Wer ist Christian Dietrich Grabbe?",
+        "output": "Christian Dietrich Grabbe (1801\u20131836) war ein bedeutender deutscher Dramatiker des Vorm\u00e4rz. Unser Gymnasium ist nach ihm benannt, um seine Verdienste zu ehren."
+    },
+    {
+        "input": "Wie lautet die Adresse des Grabbe-Gymnasiums?",
+        "output": "Das Grabbe-Gymnasium befindet sich am K\u00fcster-Meier-Platz 2 in Detmold."
+    },
+    {
+        "input": "Welche Schulzeiten gelten am Grabbe-Gymnasium?",
+        "output": "Die Schulzeiten sind von Montag bis Freitag, in der Regel von 7:40 bis 13:00 Uhr. In einigen F\u00e4llen kann der Unterricht auch l\u00e4nger dauern."
+    },
+    {
+        "input": "Wer ist die Schulleitung des Grabbe-Gymnasiums?",
+        "output": "Die Schulleitung des Grabbe-Gymnasiums besteht aus Dr. Claus Hilbing und Anja Vothknecht."
+    },
+    {
+        "input": "Unter welcher Internetadresse finde ich das IServ des Grabbe-Gymnasiums?",
+        "output": "Du findest IServ unter https://grabbe-dt.de."
+    },
+    {
+        "input": "Wie viele Sch\u00fclerinnen und Sch\u00fcler besuchen das Grabbe-Gymnasium derzeit?",
+        "output": "Aktuell besuchen 746 Sch\u00fclerinnen und Sch\u00fcler das Grabbe-Gymnasium (Stand: 03.07.2024)."
+    },
+    {
+        "input": "Was ist der Grabbe-Planer am Grabbe-Gymnasium?",
+        "output": "Der Grabbe-Planer ist ein Heft, das dir hilft, deinen Schulalltag besser zu organisieren. Hier kannst du Hausaufgaben, wichtige Termine und deinen Stundenplan notieren. Lehrer k\u00f6nnen ebenfalls Notizen zu Hausaufgaben oder Fehlverhalten eintragen."
+    },
+    {
+        "input": "Aus welchen Geb\u00e4udeteilen besteht das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium besteht aus dem Altbau (A), dem Neubau (N) und dem Erweiterungsbau (E)."
+    },
+    {
+        "input": "Wo befindet sich das Sekretariat des Grabbe-Gymnasiums?",
+        "output": "Das Sekretariat befindet sich direkt hinter dem Haupteingang des Altbaus."
+    },
+    {
+        "input": "Wo befinden sich die Vertretungspl\u00e4ne im Grabbe-Gymnasium?",
+        "output": "Vertretungspl\u00e4ne findest du in jedem Geb\u00e4ude direkt hinter dem Haupteingang. Bald werden auch digitale Vertretungspl\u00e4ne \u00fcber WebUntis verf\u00fcgbar sein."
+    },
+    {
+        "input": "Gibt es Wasserspender im Grabbe-Gymnasium?",
+        "output": "Ja, es gibt zwei Wasserspender: Einer im Neubau-Foyer und einer in der N\u00e4he der Mensa. Dort kannst du kostenlos Trinkwasser erhalten."
+    },
+    {
+        "input": "Wie lautet die Telefonnummer des Sekretariats des Grabbe-Gymnasiums?",
+        "output": "Die Telefonnummer des Sekretariats ist 05231\u201399260."
+    },
+    {
+        "input": "In welchem Bundesland ist das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium befindet sich in Nordrhein-Westfalen, Deutschland."
+    },
+    {
+        "input": "Was muss ich tun, wenn ich mein Tablet f\u00fcr den Unterricht am Grabbe-Gymnasium verwenden m\u00f6chte?",
+        "output": "Du musst den Tablet-Knigge unterschreiben und bei Frau Kn\u00fcppel abgeben. Au\u00dferdem ben\u00f6tigst du einen Stift oder eine Tastatur."
+    },
+    {
+        "input": "Was mache ich, wenn mein Kind an der Hausaufgabenbetreuung des Grabbe-Gymnasiums teilnimmt und krank ist?",
+        "output": "Wenn dein Kind an der Hausaufgabenbetreuung teilnimmt und krank ist, sende bitte eine E-Mail mit der Krankmeldung an Frau Bossmanns (b.bossmanns@grabbe.nrw.schule)."
+    },
+    {
+        "input": "Was passiert, wenn mein Kind w\u00e4hrend der Unterrichtszeit am Grabbe-Gymnasium erkrankt?",
+        "output": "Sollte dein Kind w\u00e4hrend der Unterrichtszeit erkranken, wirst du umgehend telefonisch benachrichtigt."
+    },
+    {
+        "input": "Muss ich mein Kind abholen, wenn es w\u00e4hrend der Unterrichtszeit am Grabbe-Gymnasium erkrankt?",
+        "output": "Kinder der Jahrg\u00e4nge 5 bis 7 m\u00fcssen von einem Familienmitglied abgeholt werden. Ab der 8. Klasse d\u00fcrfen leicht erkrankte Sch\u00fcler den Heimweg eigenst\u00e4ndig antreten, wenn du telefonisch die Erlaubnis gibst."
+    },
+    {
+        "input": "Wie entschuldige ich die Fehltage meines Kindes nach der Krankheit am Grabbe-Gymnasium?",
+        "output": "Nach der Krankheit deines Kindes trage die Fehltage im Entschuldigungsvordruck im Grabbe-Planer ein, damit dein Kind diese der Klassenleitung vorlegen kann."
+    },
+    {
+        "input": "Ersetzt eine Nachricht auf dem Anrufbeantworter des Grabbe-Gymnasiums die schriftliche Entschuldigung?",
+        "output": "Nein, eine Nachricht auf dem Anrufbeantworter oder eine E-Mail an die Lehrkr\u00e4fte ersetzt nicht die schriftliche Entschuldigung nach Ende der Erkrankung."
+    },
+    {
+        "input": "Wie befreit man sein Kind aus gesundheitlichen Gr\u00fcnden vom Sportunterricht am Grabbe-Gymnasium?",
+        "output": "F\u00fcr eine l\u00e4ngere Befreiung vom Sportunterricht aus gesundheitlichen Gr\u00fcnden, lasse bitte der Sportlehrkraft eine \u00e4rztliche Bescheinigung zukommen. In der Regel erledigt dein Kind dann Aufgaben, die keinen k\u00f6rperlichen Einsatz erfordern oder nur T\u00e4tigkeiten, die seiner Gesundheit entsprechen."
+    },
+    {
+        "input": "Muss mein Kind trotz gesundheitlicher Probleme w\u00e4hrend der Sportstunden im Klassenverband am Grabbe-Gymnasium bleiben?",
+        "output": "Ja, im Normalfall bleibt dein Kind trotz gesundheitlicher Probleme w\u00e4hrend der Sportstunden im Klassenverband. Die Sportlehrkraft entscheidet im Einzelfall."
+    },
+    {
+        "input": "Muss man IServ am Grabbe-Gymnasium nutzen?",
+        "output": "Die Nutzung von IServ am Grabbe-Gymnasium ist nicht verpflichtend, jedoch sind ohne IServ viele Funktionen stark eingeschr\u00e4nkt."
+    },
+    {
+        "input": "Welche p\u00e4dagogischen Konzepte und Leitbilder verfolgt das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium legt seit fast 100 Jahren einen besonderen Schwerpunkt auf kulturelle Bildung und hat Kunst, Sport und Musik in den Mittelpunkt gestellt. Als MINT-freundliche Schule erg\u00e4nzen wir dies mit naturwissenschaftlicher Bildung. Unsere Leitbegriffe sind kreativ, wertsch\u00e4tzend, lebensnah, vielf\u00e4ltig, selbstst\u00e4ndig, reflektiert und demokratisch. Mehr dazu findest du hier: http://www.grabbe-gymnasium.de/#cmsimpleOnePage8"
+    },
+    {
+        "input": "Wie sieht die Einarbeitung und Unterst\u00fctzung f\u00fcr neue Lehrkr\u00e4fte am Grabbe-Gymnasium aus?",
+        "output": "Neue Lehrkr\u00e4fte am Grabbe-Gymnasium werden von einem erfahrenen Kollegium unterst\u00fctzt. Die Schulleitung stellt den ersten Kontakt her und begleitet die Einarbeitung, die eine umfassende Einf\u00fchrung in die technischen und organisatorischen Abl\u00e4ufe der Schule umfasst."
+    },
+    {
+        "input": "Wie ist das Kollegium am Grabbe-Gymnasium strukturiert und wie wird die Zusammenarbeit im Team gef\u00f6rdert?",
+        "output": "Die Struktur des Kollegiums ist in der Ansprechpartnerliste auf unserer Webseite aufgef\u00fchrt: http://www.grabbe-gymnasium.de/#cmsimpleOnePage2. Gemeinsame Aktionen und Ausfl\u00fcge sowie regelm\u00e4\u00dfige internationale Fu\u00dfballturniere f\u00f6rdern den Teamgeist."
+    },
+    {
+        "input": "Welche technischen und didaktischen Ressourcen stehen den Lehrkr\u00e4ften am Grabbe-Gymnasium zur Verf\u00fcgung?",
+        "output": "Am Grabbe-Gymnasium stehen Lehrkr\u00e4ften Beamer, Mini-PCs, Dokumentenkameras und klassische Tafeln zur Verf\u00fcgung. Fachr\u00e4ume sind modern ausgestattet, darunter gro\u00dfe Kunstr\u00e4ume, Musikr\u00e4ume mit vielen Instrumenten und gut ausgestattete Informatik- und naturwissenschaftliche R\u00e4ume. Zus\u00e4tzlich erhalten alle Lehrer einen Microsoft 365 A3 Account und k\u00f6nnen auf IServ und andere digitale Ressourcen zugreifen."
+    },
+    {
+        "input": "Gibt es M\u00f6glichkeiten, sich am Grabbe-Gymnasium an schulischen Projekten und Arbeitsgruppen zu beteiligen?",
+        "output": "Ja, alle Arbeitskreise und Gruppen stehen allen Lehrern offen. Ergebnisse werden im internen Newsletter ver\u00f6ffentlicht, und Ideen werden transparent durch die Gremien diskutiert."
+    },
+    {
+        "input": "Welche Unterst\u00fctzung gibt es f\u00fcr Lehrkr\u00e4fte im Bereich Klassenmanagement und -f\u00fchrung am Grabbe-Gymnasium?",
+        "output": "Die Klassensprecher unterst\u00fctzen bei der Organisation und helfen dem Lehrer, wo es n\u00f6tig ist."
+    },
+    {
+        "input": "Wie ist die Ausstattung der Klassenr\u00e4ume und der Fachr\u00e4ume (z.B. f\u00fcr Naturwissenschaften) am Grabbe-Gymnasium?",
+        "output": "Alle Klassenr\u00e4ume und Fachr\u00e4ume am Grabbe-Gymnasium sind mit Beamern und Mini-PCs ausgestattet, und eine drahtlose Verbindung zu den Beamern ist m\u00f6glich. Dokumentenkameras und klassische Tafeln stehen ebenfalls zur Verf\u00fcgung. Die Fachr\u00e4ume sind gr\u00f6\u00dftenteils renoviert und gut ausgestattet, einschlie\u00dflich gro\u00dfer Kunstr\u00e4ume, Musikr\u00e4ume mit Instrumenten, Informatikr\u00e4ume und naturwissenschaftliche Labore mit Robotersets und Mini-Laboren."
+    },
+    {
+        "input": "Wie ist der Unterricht am Grabbe-Gymnasium strukturiert?",
+        "output": "Der Unterricht am Grabbe-Gymnasium ist klar strukturiert und folgt den typischen Regeln eines deutschen Gymnasiums. Der Unterricht findet in der Regel von 7:40 bis 13:00 Uhr statt, mit mindestens einer Doppelstunde pro Fach."
+    },
+    {
+        "input": "Welche Fremdsprachen werden am Grabbe-Gymnasium angeboten?",
+        "output": "Ab der 7. Klasse kann und muss man am Grabbe-Gymnasium wahlweise Franz\u00f6sisch oder Latein bis zum Ende der 10. Klasse lernen. Ab der 9. Klasse kann Franz\u00f6sisch als Wahlpflichtfach gew\u00e4hlt werden. In der Oberstufe sind Spanisch und Franz\u00f6sisch sowie Latein verf\u00fcgbar. Deutsch als Zweitsprache wird f\u00fcr neu nach Deutschland kommende Sch\u00fcler angeboten."
+    },
+    {
+        "input": "Gibt es Ganztagsangebote oder eine Nachmittagsbetreuung am Grabbe-Gymnasium?",
+        "output": "Ja, nach der 6. Stunde k\u00f6nnen Sch\u00fcler in der Schulmensa warm essen und in einem betreuten Raum spielen. Es gibt auch zahlreiche AGs. Je \u00e4lter die Sch\u00fcler sind, desto mehr Angebote stehen zur Verf\u00fcgung: http://www.grabbe-gymnasium.de/cms_hp/nachmittag/"
+    },
+    {
+        "input": "Wie sieht der typische Stundenplan eines Sch\u00fclers am Grabbe-Gymnasium aus?",
+        "output": "Der typische Unterrichtstag am Grabbe-Gymnasium dauert von 7:40 bis 13:00 Uhr. Die F\u00e4cher werden in der Regel in Doppelstunden unterrichtet, was f\u00fcr einen strukturierten und zugleich flexiblen Unterrichtstag sorgt."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium spezielle F\u00f6rderprogramme f\u00fcr begabte Sch\u00fcler?",
+        "output": "Ja, es gibt spezielle F\u00f6rderprogramme wie AGs, Interaktionsprojekte und Projekttage. Zudem gibt es eine Zusammenarbeit mit dem Jungstudierenden Institut der Hochschule f\u00fcr Musik, die besondere F\u00f6rderungen bietet."
+    },
+    {
+        "input": "Welche Unterst\u00fctzungsangebote gibt es am Grabbe-Gymnasium f\u00fcr Sch\u00fcler mit Lernschwierigkeiten?",
+        "output": "In der 6. Klasse werden optionale Nachhilfeangebote in Deutsch, Mathe und Englisch angeboten. F\u00fcr Sch\u00fcler der Klassen 5 bis 10 gibt es Lernpaten f\u00fcr jedes Fach. Weitere Informationen findest du hier: http://www.grabbe-gymnasium.de/foerderkonzept2/"
+    },
+    {
+        "input": "Wie werden Eltern \u00fcber den Fortschritt ihrer Kinder am Grabbe-Gymnasium informiert?",
+        "output": "Eltern k\u00f6nnen sich bei den beiden Elternsprechtagen im Schuljahr mit den Lehrern austauschen. Zudem stehen die Klassenleitungen in regelm\u00e4\u00dfigem Kontakt mit Sch\u00fclern und Eltern."
+    },
+    {
+        "input": "Gibt es regelm\u00e4\u00dfige Elternabende oder Sprechstunden am Grabbe-Gymnasium?",
+        "output": "Elternabende finden jedes Jahr zu Beginn des Schuljahres statt. Zus\u00e4tzlich k\u00f6nnen jederzeit individuelle Termine mit den Lehrern vereinbart werden."
+    },
+    {
+        "input": "Welche M\u00f6glichkeiten gibt es, sich als Eltern am Grabbe-Gymnasium zu engagieren?",
+        "output": "Eltern k\u00f6nnen sich in der Elternpflegschaft engagieren, bei der Organisation von Feiern und Wandertagen mithelfen oder in Arbeitskreisen zur Schulentwicklung mitarbeiten, die offen f\u00fcr Eltern und Sch\u00fcler sind."
+    },
+    {
+        "input": "Wie wird am Grabbe-Gymnasium mit Mobbing und Konflikten umgegangen?",
+        "output": "Mobbing wird nicht toleriert. Es gibt sofortige Konsequenzen, und Sch\u00fcler k\u00f6nnen sich an Lehrer oder die Schulsozialarbeiterin wenden. Klassengemeinschaften werden durch Programme wie LionsQuest und Klassenleitungsstunden gest\u00e4rkt."
+    },
+    {
+        "input": "Welche digitalen Lernmittel und Plattformen werden am Grabbe-Gymnasium genutzt?",
+        "output": "Am Grabbe-Gymnasium werden IServ, Microsoft 365, WebUntis genutzt. Sch\u00fcler d\u00fcrfen auch eigene Tablets verwenden, f\u00fcr deren Nutzung es einen Tablet-Knigge gibt."
+    },
+    {
+        "input": "Wie sieht das Aufnahmeverfahren f\u00fcr neue Sch\u00fcler am Grabbe-Gymnasium aus?",
+        "output": "Vereinbare ein Aufnahmegespr\u00e4ch im Sekretariat unter 05231-99260 oder per E-Mail an sekretariat@grabbe.nrw.schule. W\u00e4hrend der einheitlichen Anmeldewoche in Detmold kannst du \u00fcber das Termintool auf der Homepage einen Termin mit der Schulleitung buchen."
+    },
+    {
+        "input": "Wie ist die Hausaufgabenbetreuung am Grabbe-Gymnasium organisiert?",
+        "output": "Die Hausaufgabenbetreuung findet von Montag bis Donnerstag von 13:30 bis 14:30 Uhr statt und richtet sich haupts\u00e4chlich an 5. und 6. Kl\u00e4ssler. Tutoren aus den 9. und 10. Klassen betreuen die Sch\u00fcler in Kleingruppen von vier bis f\u00fcnf Sch\u00fclern."
+    },
+    {
+        "input": "Wie werden die Sch\u00fcler am Grabbe-Gymnasium auf die Anforderungen der digitalen Welt vorbereitet?",
+        "output": "In der 6. Klasse gibt es Informatikunterricht. Ab der 9. Klasse kann Informatik als Wahlpflichtfach gew\u00e4hlt werden."
+    },
+    {
+        "input": "Wie funktioniert die Bestellung von Schulb\u00fcchern und Unterrichtsmaterialien am Grabbe-Gymnasium?",
+        "output": "Schulb\u00fccher werden zentral von Herrn Rieche bestellt und an die Sch\u00fcler verliehen. Zu Beginn des Schuljahres werden die ben\u00f6tigten Materialien wie Hefte und Mappen bekannt gegeben."
+    },
+    {
+        "input": "Welche Rolle spielt die Schulsozialarbeit am Grabbe-Gymnasium?",
+        "output": "Sylvia M\u00f6bus, die Schulsozialarbeiterin, bietet Beratung und Unterst\u00fctzung f\u00fcr Sch\u00fcler und Eltern an."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium eine eigene Klasse f\u00fcr internationale Sch\u00fcler?",
+        "output": "Ja, nicht-Deutschsprachige Sch\u00fcler nehmen am Unterricht in der IVK (internationale Klasse) teil."
+    },
+    {
+        "input": "Wie meldet man sein Kind zur Hausaufgabenbetreuung am Grabbe-Gymnasium an?",
+        "output": "Die Anmeldung zur Hausaufgabenbetreuung erfolgt zu Beginn des Schuljahres \u00fcber die Klassenlehrer. W\u00e4hrend des laufenden Halbjahres kannst du dich per E-Mail an Frau Bossmanns (b.bossmanns@grabbe.nrw.schule) wenden."
+    },
+    {
+        "input": "Wie lautet der Link zum Vertretungsplan am Grabbe-Gymnasium?",
+        "output": "Momentan wird kein Vertretungsplan online bereitgestellt."
+    },
+    {
+        "input": "Wie erhalte ich ein kostenloses Microsoft Office365 Paket am Grabbe-Gymnasium?",
+        "output": "Die Nutzungserkl\u00e4rung muss unterschrieben und einem Lehrer abgegeben werden, um das kostenlose Microsoft Office365 Paket zu erhalten."
+    },
+    {
+        "input": "Wie kommt man zum Grabbe-Gymnasium?",
+        "output": "Das Gymnasium ist gut mit \u00f6ffentlichen Verkehrsmitteln erreichbar; eine Bushaltestelle befindet sich direkt vor der Schule. Es gibt zudem Stellpl\u00e4tze f\u00fcr Fahrr\u00e4der und E-Roller."
+    },
+    {
+        "input": "Was ist das SLZ am Grabbe-Gymnasium?",
+        "output": "Das SLZ (Selbstlernzentrum) bietet Computerarbeitspl\u00e4tze, Tische, Entspannungsm\u00f6glichkeiten und eine Bibliothek."
+    },
+    {
+        "input": "Mit welchen Anmeldedaten muss man sich an den Schul-PCs am Grabbe-Gymnasium anmelden?",
+        "output": "An den Schul-PCs meldest du dich mit deinem IServ-Nutzernamen und Passwort an. Der Benutzername besteht \u00fcblicherweise aus deinem Vor- und Nachnamen, getrennt durch einen Punkt."
+    },
+    {
+        "input": "Was muss man am Grabbe-Gymnasium machen, wenn man sein IServ-Passwort vergessen hat?",
+        "output": "Wende dich an einen Lehrer, um dein Passwort zur\u00fcckzusetzen und ein Einmalpasswort zu erhalten."
+    },
+    {
+        "input": "Haben am Grabbe-Gymnasium die Eltern auch einen IServ-Zugang?",
+        "output": "Nein, IServ ist f\u00fcr die schulinternen Kommunikationswege gedacht. Eltern k\u00f6nnen \u00fcber die Dienst-Mailadressen der Lehrer kommunizieren."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium spezielle Angebote f\u00fcr sportlich interessierte Sch\u00fclerinnen und Sch\u00fcler?",
+        "output": "Ja, wir bieten eine sportliche Schwerpunktklasse (s-Klasse) an."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium ein Orchester?",
+        "output": "Ja, das Grabbe-Gymnasium hat mehrere Orchester: das SI-Orchester, das Detmolder Jugendorchester (DJO) und das Blasorchester \u201eGrabbe Winds\u201c."
+    },
+    {
+        "input": "Wo finde ich die Lehrpl\u00e4ne f\u00fcr den Unterricht am Grabbe-Gymnasium?",
+        "output": "Die Lehrpl\u00e4ne findest du hier: [Lehrpl\u00e4ne](http://www.grabbe-gymnasium.de/infos/unterricht/#cmsimpleOnePage7)"
+    },
+    {
+        "input": "Ist das Gymnasium Leopoldinum in Detmold besser als das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium bietet ebenfalls hervorragende Bildungsm\u00f6glichkeiten, daher ist ein Vergleich nicht einfach. Beide Schulen haben ihre St\u00e4rken."
+    },
+    {
+        "input": "Ist das Leo in Detmold besser als das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium und das Leopoldinum sind beide renommierte Schulen, die jeweils ihre eigenen Schwerpunkte und St\u00e4rken haben."
+    },
+    {
+        "input": "Ist das Stadtgymnasium in Detmold besser als das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium hat ebenfalls ein starkes Profil. Die Wahl der besten Schule h\u00e4ngt von den individuellen Bed\u00fcrfnissen und Interessen ab."
+    },
+    {
+        "input": "Bis zu welcher Klasse ist die Schule verpflichtend?",
+        "output": "Die Schulpflicht besteht bis zum Ende des 10. Schuljahres."
+    },
+    {
+        "input": "In welcher Stufe macht man das Abitur am Grabbe-Gymnasium?",
+        "output": "Das Abitur wird in der 13. Klasse abgelegt."
+    },
+    {
+        "input": "Welche Schwerpunkte haben die verschiedenen Klassen am Grabbe-Gymnasium?",
+        "output": "Am Grabbe-Gymnasium gibt es vier Schwerpunkte: naturwissenschaftlich (gn), Kunst (k), Musik (m) und Sport (s). In den Klassen 5 und 6 wird w\u00f6chentlich eine Doppelstunde Projektunterricht entsprechend dem Schwerpunkt angeboten."
+    },
+    {
+        "input": "Wo befindet sich die neue Aula im Grabbe-Gymnasium?",
+        "output": "Die neue Aula befindet sich direkt links, wenn du durch den Haupteingang ins Neubau-Foyer gehst."
+    },
+    {
+        "input": "Wie lautet die URL der Homepage des Grabbe-Gymnasiums?",
+        "output": "Die URL der Website des Grabbe-Gymnasiums lautet: [http://grabbe-gymnasium.de](http://grabbe-gymnasium.de)"
+    },
+    {
+        "input": "Wie lautet die URL vom IServ des Grabbe-Gymnasiums?",
+        "output": "Die URL des IServ-Servers lautet: [https://grabbe-dt.de](https://grabbe-dt.de)"
+    },
+    {
+        "input": "\u0427\u0438 \u043c\u043e\u0436\u0443 \u044f \u0442\u0430\u043a\u043e\u0436 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 GrabbeAI \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e?",
+        "output": "\u0422\u0430\u043a, \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 GrabbeAI \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e, \u0445\u043e\u0447\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043d\u0435 \u0442\u0430\u043a\u043e\u044e \u0441\u0442\u0430\u0431\u0456\u043b\u044c\u043d\u043e\u044e, \u044f\u043a \u043d\u0456\u043c\u0435\u0446\u044c\u043a\u043e\u0457. \u042f \u0440\u0430\u0434\u0438\u0439 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u0437 \u0432\u0430\u043c\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e. \u0427\u0438\u043c \u043c\u043e\u0436\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0442\u0438?"
+    },
+    {
+        "input": "Wo finde ich Dokumente grunds\u00e4tzlich am Grabbe-Gymnasium?",
+        "output": "Dokumente findest du online unter: [http://www.grabbe-gymnasium.de/userfiles/downloads/](http://www.grabbe-gymnasium.de/userfiles/downloads/)"
+    },
+    {
+        "input": "Wann sind Wandertage am Grabbe-Gymnasium?",
+        "output": "Wandertage werden in der Regel f\u00fcr jede Klasse individuell festgelegt. Meistens finden sie am Ende des ersten und des zweiten Halbjahres statt."
+    },
+    {
+        "input": "Wie viele Klassenarbeiten werden am Grabbe-Gymnasium in der 5. Klasse in jedem Fach geschrieben?",
+        "output": "In jedem Hauptfach werden in der 5. Klasse normalerweise drei Klassenarbeiten pro Halbjahr geschrieben."
+    },
+    {
+        "input": "Wie erreiche ich die Schulleitung des Grabbe-Gymnasiums?",
+        "output": "Die Schulleitung erreichst du per E-Mail unter: schulleitung@grabbe.nrw.schule"
+    },
+    {
+        "input": "Wie werde ich am Grabbe-Gymnasium informiert, wenn mein Kind seine Hausaufgaben nicht erledigt hat?",
+        "output": "Fehlende Hausaufgaben oder Materialien werden im Grabbe-Planer vom Lehrer vermerkt."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium einen Schulsanit\u00e4tsdienst?",
+        "output": "Ja, es gibt einen Schulsanit\u00e4tsdienst, der von Sch\u00fclern betrieben wird."
+    },
+    {
+        "input": "Wie viel kostet ein warmes Essen in der Mensa des Grabbe-Gymnasiums?",
+        "output": "Ein warmes Mittagessen kostet in der Mensa 4,50\u20ac."
+    },
+    {
+        "input": "Gibt es in der Mensa am Grabbe-Gymnasium belegte Br\u00f6tchen?",
+        "output": "Ja, in der Mensa kannst du in den Pausen belegte Br\u00f6tchen, Brezeln, Schokobr\u00f6tchen, S\u00fc\u00dfigkeiten und vieles mehr kaufen."
+    },
+    {
+        "input": "Hat das Grabbe-Gymnasium einen Chor?",
+        "output": "Ja, das Grabbe-Gymnasium hat mehrere Ch\u00f6re: die \u201eGrabbe Starters\u201c f\u00fcr die 5. Klasse, den SI-Chor \u201eYoung Grabbe Voices\u201c f\u00fcr die Jahrgangsstufen 6 bis 8 und den SII-Chor f\u00fcr alle ab Jahrgangsstufe 9."
+    },
+    {
+        "input": "Welche Schule ist die beste?",
+        "output": "Es gibt viele hervorragende Schulen. Die Wahl der besten Schule h\u00e4ngt von den individuellen Bed\u00fcrfnissen und Interessen ab."
+    },
+    {
+        "input": "Zu welchen Zeiten hat das Sekretariat des Grabbe-Gymnasiums ge\u00f6ffnet?",
+        "output": "Das Sekretariat ist t\u00e4glich von 7:40 Uhr bis 14:00 Uhr ge\u00f6ffnet. Es ist von 8:00 bis 9:00 Uhr sowie von 12:15 bis 13:00 Uhr geschlossen."
+    },
+    {
+        "input": "Wie kann man sich beim Grabbe-Gymnasium bewerben?",
+        "output": "Alle Informationen zu Bewerbungen und offenen Stellen findest du hier: [http://www.grabbe-gymnasium.de/infos/organisation/?Offene_Stellen](http://www.grabbe-gymnasium.de/infos/organisation/?Offene_Stellen)"
+    },
+    {
+        "input": "Wen kann ich bei Fragen, Problemen oder Feedback bez\u00fcglich der GrabbeAI kontaktieren?",
+        "output": "Bei Fragen, Problemen oder Feedback zu GrabbeAI kannst du eine E-Mail an finnbusse@outlook.de senden."
+    },
+    {
+        "input": "Wie erh\u00e4lt man den Grabbe-Planer?",
+        "output": "Den Grabbe-Planer erh\u00e4ltst du zu Beginn des neuen Schuljahres von deinem Klassenlehrer."
+    },
+    {
+        "input": "In welchen Jahrg\u00e4ngen findet am Grabbe-Gymnasium Schwimmunterricht statt?",
+        "output": "Schwimmunterricht findet am Grabbe-Gymnasium in der Regel in der 5. und 7. Klasse statt."
+    },
+    {
+        "input": "Gibt es eine digitale Lernplattform am Grabbe-Gymnasium?",
+        "output": "Ja, am Grabbe-Gymnasium nutzen wir die digitale Lernplattform IServ."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium Schlie\u00dff\u00e4cher f\u00fcr die Sch\u00fcler?",
+        "output": "In den Klassenr\u00e4umen stehen F\u00e4cher zur Verf\u00fcgung. In der Oberstufe k\u00f6nnen Sch\u00fcler Schlie\u00dff\u00e4cher \u00fcber die SV mieten."
+    },
+    {
+        "input": "Wie oft gibt es am Grabbe-Gymnasium Zeugnisse?",
+        "output": "Es gibt ein Halbjahreszeugnis im Januar und ein Jahreszeugnis vor den Sommerferien."
+    },
+    {
+        "input": "Darf man am Grabbe-Gymnasium in den Pausen Handys nutzen?",
+        "output": "Handys d\u00fcrfen in den Pausen nur von Sch\u00fclern der Oberstufe genutzt werden."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium eine Zusammenarbeit mit anderen Schulen?",
+        "output": "Ja, wir kooperieren mit dem Leopoldinum, dem Stadtgymnasium und der Schule in Saint-Omer, Frankreich, f\u00fcr Austauschprogramme."
+    },
+    {
+        "input": "Gibt es eine Erste-Hilfe-Station am Grabbe-Gymnasium?",
+        "output": "Ja, die Erste-Hilfe-Station befindet sich rechts neben dem Sekretariat."
+    },
+    {
+        "input": "Wie werden Elternabende am Grabbe-Gymnasium organisiert?",
+        "output": "Elternabende werden per E-Mail angek\u00fcndigt."
+    },
+    {
+        "input": "Gibt es eine Sch\u00fclerb\u00fccherei am Grabbe-Gymnasium?",
+        "output": "Ja, im Selbstlernzentrum kannst du B\u00fccher ausleihen."
+    },
+    {
+        "input": "Welche Projekte zur Medienkompetenz gibt es am Grabbe-Gymnasium?",
+        "output": "Zu unseren Projekten zur Medienkompetenz geh\u00f6rt unter anderem der Saver-Internet-Day."
+    },
+    {
+        "input": "Gibt es eine M\u00f6glichkeit, das Grabbe-Gymnasium finanziell zu unterst\u00fctzen?",
+        "output": "Ja, du kannst dem F\u00f6rderverein beitreten und j\u00e4hrlich spenden."
+    },
+    {
+        "input": "Wie wird am Grabbe-Gymnasium der Sportunterricht bei schlechtem Wetter geregelt?",
+        "output": "Bei schlechtem Wetter findet der Sportunterricht in \u00fcberdachten Hallen statt."
+    },
+    {
+        "input": "Wie viele Turnhallen oder Sportpl\u00e4tze hat das Grabbe-Gymnasium?",
+        "output": "Das Grabbe-Gymnasium verf\u00fcgt \u00fcber zwei Turnhallen, ein Turnleistungszentrum und einen gro\u00dfen Sportplatz."
+    },
+    {
+        "input": "Wo findet der Schwimmunterricht des Grabbe-Gymnasiums statt?",
+        "output": "Der Schwimmunterricht findet im Hallenbad Aqualip statt, das nur 100 Meter vom Grabbe-Gymnasium entfernt ist und schnell zu Fu\u00df erreicht werden kann."
+    },
+    {
+        "input": "Wie weit ist das Schwimmbad vom Grabbe-Gymnasium entfernt?",
+        "output": "Das Schwimmbad Aqualip ist nur wenige Meter vom Grabbe-Gymnasium entfernt und leicht zu Fu\u00df erreichbar."
+    },
+    {
+        "input": "Wo ist das Selbstlernzentrum des Grabbe-Gymnasiums?",
+        "output": "Das Selbstlernzentrum befindet sich im Neubau."
+    }
+]

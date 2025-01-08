@@ -1,0 +1,14 @@
+[
+    {
+        "input": "Welche Regeln gibt es zur Nutzung eigener Tablets am Grabbe-Gymnasium?",
+        "output": "Die Nutzung eigener Tablets ist durch den Tablet-Knigge geregelt. Tablets d\u00fcrfen nur f\u00fcr schulische Zwecke im Unterricht verwendet werden und nicht in den Pausen, es sei denn, es wird ausdr\u00fccklich erlaubt. Die Ger\u00e4te m\u00fcssen den technischen Anforderungen entsprechen, und Sch\u00fcler sind f\u00fcr die Sicherheit und Datenverwaltung verantwortlich. Weitere Details findest du hier: http://www.grabbe-gymnasium.de/userfiles/downloads/2324_Tablet_Knigge_am_Grabbe.pdf"
+    },
+    {
+        "input": "Wie ist das Konzept f\u00fcr die Nutzung von Tablets und Laptops im Unterricht am Grabbe-Gymnasium?",
+        "output": "Sch\u00fcler d\u00fcrfen ab der 7. Klasse eigene Tablets oder Laptops mitbringen. Zus\u00e4tzlich stehen Klassens\u00e4tze mit Laptops zur Verf\u00fcgung, die von Lehrern gebucht werden k\u00f6nnen."
+    },
+    {
+        "input": "Wo finde ich die Schulordnung des Grabbe-Gymnasiums?",
+        "output": "Die Schulordnung findest du hier: [Schulordnung](http://www.grabbe-gymnasium.de/infos/organisation/?Haus-_und_Schulordnung)"
+    }
+]

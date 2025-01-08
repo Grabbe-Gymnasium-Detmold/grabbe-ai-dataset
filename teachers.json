@@ -1,0 +1,326 @@
+[
+    {
+        "input": "Wie kann ich Lehrer am Grabbe-Gymnasium am besten erreichen?",
+        "output": "Sch\u00fcler erreichen Lehrer am besten \u00fcber IServ. Eltern k\u00f6nnen die E-Mail-Adressen der Lehrer unter http://grabbe-gymnasium.de/infos/organisation/ einsehen."
+    },
+    {
+        "input": "Wie setzt sich eine Lehrer-Mailadresse der Lehrer am Grabbe-Gymnasium zusammen?",
+        "output": "Die E-Mail-Adressen der Lehrer am Grabbe-Gymnasium bestehen aus dem ersten Buchstaben des Vornamens, einem Punkt und dem Nachnamen. Beispiel: v.nachname@grabbe.nrw.schule"
+    },
+    {
+        "input": "Welche Fort- und Weiterbildungsm\u00f6glichkeiten bietet die Schule f\u00fcr Lehrerinnen am Grabbe-Gymnasium an?",
+        "output": "Das Grabbe-Gymnasium bietet ein j\u00e4hrlich angepasstes Fortbildungsprogramm an, das in der Gesamtlehrkr\u00e4ftekonferenz und Schulkonferenz abgestimmt wird. Neben p\u00e4dagogischen Tagen und schulischen Fortbildungen gibt es auch regelm\u00e4\u00dfige Weiterbildungsangebote w\u00e4hrend des Schuljahres."
+    },
+    {
+        "input": "Wie werden Lehrer in schulische Entscheidungsprozesse am Grabbe-Gymnasium eingebunden?",
+        "output": "Alle Arbeitskreise und Gruppen am Grabbe-Gymnasium stehen allen Lehrern offen. Ergebnisse werden im internen Newsletter ver\u00f6ffentlicht, und Ideen und Konzepte werden in den Gremien besprochen. Die Steuergruppe, die vom Kollegium gew\u00e4hlt wird, ist ebenfalls offen f\u00fcr Anregungen."
+    },
+    {
+        "input": "Gibt es am Grabbe-Gymnasium Angebote zur Work-Life-Balance, wie z.B. flexible Arbeitszeiten oder Gesundheitsprogramme wenn ich Lehrer am Grabbe-Gymnasium werden m\u00f6chte?",
+        "output": "Der Stundenplan kann in Absprache mit den Kollegen flexibel gestaltet werden. Teilzeitkr\u00e4fte haben Regelungen f\u00fcr reduzierte Springstunden und Pr\u00e4senzzeiten. Viele Aufgaben k\u00f6nnen im Homeoffice erledigt werden, da alle Datenbanken sicher digitalisiert sind."
+    },
+    {
+        "input": "Wann sind die n\u00e4chsten Elternsprechtage oder Lehrerfortbildungen?",
+        "output": "Informationen zu Elternsprechtagen und Lehrerfortbildungen findest du im Grabbe-Kalender auf der Homepage."
+    },
+    {
+        "input": "Wer ist Herr Beckmann?",
+        "output": "Herr Beckmann unterrichtet die F\u00e4cher Sport, Erdkunde. Er kann unter folgender E-Mail-Adresse erreicht werden: h.beckmann@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Borowek?",
+        "output": "Herr Borowek unterrichtet die F\u00e4cher Sozialwissenschaft/Politik, Sport. Er kann unter folgender E-Mail-Adresse erreicht werden: t.borowek@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Bossmanns?",
+        "output": "Frau Bossmanns unterrichtet die F\u00e4cher Englisch, Latein, Deutsch. Sie kann unter folgender E-Mail-Adresse erreicht werden: b.bossmanns@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Brentrup-Lappe?",
+        "output": "Frau Brentrup-Lappe unterrichtet die F\u00e4cher Deutsch, Englisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: t.brentrup-lappe@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Brieden?",
+        "output": "Frau Brieden unterrichtet die F\u00e4cher Deutsch, Erdkunde. Sie kann unter folgender E-Mail-Adresse erreicht werden: j.brieden@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Dr. Ch\u00e9e?",
+        "output": "Herr Dr. Ch\u00e9e unterrichtet die F\u00e4cher Deutsch, Englisch. Er kann unter folgender E-Mail-Adresse erreicht werden: h.chee@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Chtchian?",
+        "output": "Frau Chtchian unterrichtet die F\u00e4cher Physik, Chemie. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.chtchian@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Colton-Sonnenberg?",
+        "output": "Frau Colton-Sonnenberg unterrichtet die F\u00e4cher Englisch, Spanisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.colton-sonnenberg@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Cordes?",
+        "output": "Frau Cordes unterrichtet die F\u00e4cher Mathematik, Biologie. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.cordes@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau von Dahlen?",
+        "output": "Frau von Dahlen unterrichtet das Fach Kunst. Sie kann unter folgender E-Mail-Adresse erreicht werden: v.von-dahlen@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr von den Eichen?",
+        "output": "Herr von den Eichen unterrichtet das Fach Kunst. Er kann unter folgender E-Mail-Adresse erreicht werden: b.von-den-eichen@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Emminghaus?",
+        "output": "Frau Emminghaus unterrichtet die F\u00e4cher Latein, Sozialwissenschaften. Sie kann unter folgender E-Mail-Adresse erreicht werden: r.emminghaus@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Engelskirchen?",
+        "output": "Frau Engelskirchen unterrichtet die F\u00e4cher Englisch, Musik. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.engelskirchen@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Fernandez?",
+        "output": "Frau Fernandez unterrichtet die F\u00e4cher Deutsch, Musik. Sie kann unter folgender E-Mail-Adresse erreicht werden: k.fernandez@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Fiedler?",
+        "output": "Frau Fiedler unterrichtet die F\u00e4cher Englisch, Geschichte. Sie kann unter folgender E-Mail-Adresse erreicht werden: h.fiedler@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Folkmann-Clases?",
+        "output": "Frau Folkmann-Clases unterrichtet die F\u00e4cher Kunst, Biologie. Sie kann unter folgender E-Mail-Adresse erreicht werden: m.folkmann-clases@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Gerhardt?",
+        "output": "Frau Gerhardt unterrichtet die F\u00e4cher Deutsch, P\u00e4dagogik. Sie kann unter folgender E-Mail-Adresse erreicht werden: k.gerhardt@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Ge\u00dfner?",
+        "output": "Herr Ge\u00dfner unterrichtet das Fach Sport. Er kann unter folgender E-Mail-Adresse erreicht werden: m.gessner@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Gruhl?",
+        "output": "Herr Gruhl unterrichtet das Fach Sport. Er kann unter folgender E-Mail-Adresse erreicht werden: m.gruhl@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau G\u00fcther?",
+        "output": "Frau G\u00fcther unterrichtet die F\u00e4cher Deutsch, Englisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: h.guether@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Hauenschild?",
+        "output": "Frau Hauenschild unterrichtet die F\u00e4cher Mathematik, Philosophie. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.hauenschild@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Hecker?",
+        "output": "Frau Hecker unterrichtet die F\u00e4cher Kunst, Chemie. Sie kann unter folgender E-Mail-Adresse erreicht werden: e.hecker@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Hilbert-Opitz?",
+        "output": "Frau Hilbert-Opitz unterrichtet die F\u00e4cher Englisch, Mathematik. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.hilbert-opitz@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Dr. Hilbing?",
+        "output": "Herr Dr. Hilbing unterrichtet die F\u00e4cher Mathematik, Chemie, Erdkunde. Er kann unter folgender E-Mail-Adresse erreicht werden: c.hilbing@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Himmelsk\u00f6tter?",
+        "output": "Frau Himmelsk\u00f6tter unterrichtet die F\u00e4cher Erdkunde, Biologie. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.himmelskooter@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Hinder?",
+        "output": "Herr Hinder unterrichtet die F\u00e4cher Spanisch, Geschichte. Er kann unter folgender E-Mail-Adresse erreicht werden: h.hinder@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Hoffmann?",
+        "output": "Herr Hoffmann unterrichtet die F\u00e4cher Latein, Mathematik. Er kann unter folgender E-Mail-Adresse erreicht werden: d.hoffmann@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Holste-D\u00f6rksen?",
+        "output": "Frau Holste-D\u00f6rksen unterrichtet die F\u00e4cher Deutsch, Geschichte, ev. Religion. Sie kann unter folgender E-Mail-Adresse erreicht werden: b.holste-doerksen@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Jerusalem?",
+        "output": "Herr Jerusalem unterrichtet das Fach Kunst. Er kann unter folgender E-Mail-Adresse erreicht werden: f.jerusalem@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Kn\u00fcppel?",
+        "output": "Frau Kn\u00fcppel unterrichtet die F\u00e4cher Spanisch, Latein. Sie kann unter folgender E-Mail-Adresse erreicht werden: j.knueppel@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Dr. Kr\u00e4chter?",
+        "output": "Frau Dr. Kr\u00e4chter unterrichtet die F\u00e4cher Deutsch, Musik. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.kraechter@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Krug?",
+        "output": "Frau Krug unterrichtet die F\u00e4cher Mathematik, Deutsch. Sie kann unter folgender E-Mail-Adresse erreicht werden: v.krug@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Kustin?",
+        "output": "Frau Kustin unterrichtet die F\u00e4cher Deutsch, Erdkunde. Sie kann unter folgender E-Mail-Adresse erreicht werden: l.kustin@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Mannebach?",
+        "output": "Frau Mannebach unterrichtet die F\u00e4cher Deutsch, Englisch, Prakt. Phil. Sie kann unter folgender E-Mail-Adresse erreicht werden: b.mannebach@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Markmann?",
+        "output": "Herr Markmann unterrichtet die F\u00e4cher Biologie, Geschichte. Er kann unter folgender E-Mail-Adresse erreicht werden: j.markmann@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Dr. Meiring?",
+        "output": "Frau Dr. Meiring unterrichtet die F\u00e4cher Franz\u00f6sisch, Geschichte. Sie kann unter folgender E-Mail-Adresse erreicht werden: k.meiring@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Morgenthaler?",
+        "output": "Frau Morgenthaler unterrichtet die F\u00e4cher Musik, Sport. Sie kann unter folgender E-Mail-Adresse erreicht werden: m.morgenthaler@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Niedermeyer?",
+        "output": "Frau Niedermeyer unterrichtet die F\u00e4cher Biologie, ev. Religion. Sie kann unter folgender E-Mail-Adresse erreicht werden: g.niedermeyer@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Niehus-Berkemann?",
+        "output": "Frau Niehus-Berkemann unterrichtet die F\u00e4cher Kunst, ev. Religion. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.niehus-berkemann@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Nowak?",
+        "output": "Frau Nowak unterrichtet die F\u00e4cher kath. Religion, Geschichte. Sie kann unter folgender E-Mail-Adresse erreicht werden: b.nowak@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Panchyrz?",
+        "output": "Frau Panchyrz unterrichtet die F\u00e4cher Geschichte, Latein, Philosophie. Sie kann unter folgender E-Mail-Adresse erreicht werden: k.panchyrz@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Patzke?",
+        "output": "Frau Patzke unterrichtet die F\u00e4cher Biologie, Sport. Sie kann unter folgender E-Mail-Adresse erreicht werden: j.patzke@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Pelz?",
+        "output": "Frau Pelz unterrichtet die F\u00e4cher Englisch, Latein, Deutsch. Sie kann unter folgender E-Mail-Adresse erreicht werden: c.pelz@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Pentinghaus?",
+        "output": "Frau Pentinghaus unterrichtet die F\u00e4cher Deutsch, Franz\u00f6sisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.pentinghaus@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Rawert?",
+        "output": "Frau Rawert unterrichtet die F\u00e4cher Biologie, Sport. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.rawert@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Rey?",
+        "output": "Frau Rey unterrichtet die F\u00e4cher Englisch, Deutsch, Prakt. Phil. Sie kann unter folgender E-Mail-Adresse erreicht werden: m.rey@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Rieche?",
+        "output": "Herr Rieche unterrichtet die F\u00e4cher Mathematik, ev. Religion. Er kann unter folgender E-Mail-Adresse erreicht werden: s.rieche@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Rosa Maia?",
+        "output": "Frau Rosa Maia unterrichtet die F\u00e4cher Deutsch, kath. Religion. Sie kann unter folgender E-Mail-Adresse erreicht werden: c.rosa-maia@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr R\u00fcffer?",
+        "output": "Herr R\u00fcffer unterrichtet die F\u00e4cher Mathematik, Physik. Er kann unter folgender E-Mail-Adresse erreicht werden: j.rueffer@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Schilling?",
+        "output": "Herr Schilling unterrichtet die F\u00e4cher Mathematik, Physik. Er kann unter folgender E-Mail-Adresse erreicht werden: f.schilling@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Schlottmann?",
+        "output": "Frau Schlottmann unterrichtet die F\u00e4cher Deutsch, Philosophie, Prakt. Phil. Sie kann unter folgender E-Mail-Adresse erreicht werden: n.schlottmann@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Schneider?",
+        "output": "Frau Schneider unterrichtet die F\u00e4cher Mathematik, Chemie, P\u00e4dagogik. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.schneider@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Schr\u00f6der?",
+        "output": "Frau Schr\u00f6der unterrichtet die F\u00e4cher Latein, P\u00e4dagogik. Sie kann unter folgender E-Mail-Adresse erreicht werden: b.schroeder@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Seidel?",
+        "output": "Frau Seidel unterrichtet die F\u00e4cher Deutsch, P\u00e4dagogik. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.seidel@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Sossnierz?",
+        "output": "Herr Sossnierz unterrichtet die F\u00e4cher Geschichte, Sozialwissenschaft. Er kann unter folgender E-Mail-Adresse erreicht werden: g.sossnierz@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Sprenger?",
+        "output": "Herr Sprenger unterrichtet die F\u00e4cher Biologie, ev. Religion. Er kann unter folgender E-Mail-Adresse erreicht werden: j.sprenger@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Stender?",
+        "output": "Herr Stender unterrichtet die F\u00e4cher Mathematik, Physik. Er kann unter folgender E-Mail-Adresse erreicht werden: t.stender@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr St\u00fcer?",
+        "output": "Herr St\u00fcer unterrichtet die F\u00e4cher Englisch, Geschichte. Er kann unter folgender E-Mail-Adresse erreicht werden: j.stueer@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Vothknecht?",
+        "output": "Frau Vothknecht unterrichtet die F\u00e4cher Englisch, ev. Religion, Latein. Sie kann unter folgender E-Mail-Adresse erreicht werden: a.vothknecht@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau de Vries?",
+        "output": "Frau de Vries unterrichtet die F\u00e4cher Deutsch, Englisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: h.de-vries@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Walla?",
+        "output": "Frau Walla unterrichtet die F\u00e4cher Sport, Franz\u00f6sisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: v.walla@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Walter?",
+        "output": "Frau Walter unterrichtet die F\u00e4cher Deutsch, Kunst. Sie kann unter folgender E-Mail-Adresse erreicht werden: y.walter@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Weber?",
+        "output": "Frau Weber unterrichtet die F\u00e4cher Sozialwissenschaften, Informatik. Sie kann unter folgender E-Mail-Adresse erreicht werden: j.weber@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Wimmer-Leuders?",
+        "output": "Frau Wimmer-Leuders unterrichtet die F\u00e4cher Deutsch, kath. Religion. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.wimmer-leuders@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Wischer?",
+        "output": "Herr Wischer unterrichtet die F\u00e4cher Musik, Chemie. Er kann unter folgender E-Mail-Adresse erreicht werden: m.wischer@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Wodarz?",
+        "output": "Frau Wodarz unterrichtet die F\u00e4cher Franz\u00f6sisch, Sport. Sie kann unter folgender E-Mail-Adresse erreicht werden: j.wodarz@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Wormuth?",
+        "output": "Frau Wormuth unterrichtet die F\u00e4cher Franz\u00f6sisch, Spanisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: f.wormuth@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Borkenhagen?",
+        "output": "Herr Borkenhagen unterrichtet die F\u00e4cher Sport, Biologie. Er kann unter folgender E-Mail-Adresse erreicht werden: c.borkenhagen@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Kneffel?",
+        "output": "Frau Kneffel unterrichtet die F\u00e4cher Deutsch, Englisch. Sie kann unter folgender E-Mail-Adresse erreicht werden: l.kneffel@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Cordes?",
+        "output": "Frau Cordes unterrichtet die F\u00e4cher Englisch, P\u00e4dagogik. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.cordes@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Herr Dall?",
+        "output": "Herr Dall unterrichtet die F\u00e4cher Englisch, Geschichte. Er kann unter folgender E-Mail-Adresse erreicht werden: p.dall@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Hanswille (geb. Pflug)?",
+        "output": "Frau Hanswille (geb. Pflug) unterrichtet die F\u00e4cher Mathematik, Chemie. Sie kann unter folgender E-Mail-Adresse erreicht werden: (keine E-Mail-Adresse angegeben)."
+    },
+    {
+        "input": "Wer ist Frau Redich?",
+        "output": "Frau Redich unterrichtet die F\u00e4cher Mathematik, Biologie. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.redich@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau M\u00f6bus?",
+        "output": "Frau M\u00f6bus ist f\u00fcr die Schulsozialarbeit zust\u00e4ndig. Sie kann unter folgender E-Mail-Adresse erreicht werden: s.moebus@grabbe.nrw.schule."
+    },
+    {
+        "input": "Wer ist Frau Faude?",
+        "output": "Frau Faude war die Schulleiterin des Grabbe-Gymnasiums."
+    }
+]
