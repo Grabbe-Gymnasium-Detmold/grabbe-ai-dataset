@@ -1,0 +1,179 @@
+[
+  {
+    "name": "URL_ORGANISATION_ANSPRECHPARTNER",
+    "description": "Übersichtsseite Organisation & Ansprechpartner",
+    "url": "http://www.grabbe-gymnasium.de/infos/organisation/#cmsimpleOnePage2"
+  },
+  {
+    "name": "URL_ISERV",
+    "description": "IServ-Login für das Grabbe-Gymnasium",
+    "url": "https://grabbe-dt.de"
+  },
+  {
+    "name": "URL_TERMIN_ANMELDUNG",
+    "description": "Online-Terminvereinbarung für Anmeldung",
+    "url": "https://eveeno.com/232698226"
+  },
+  {
+    "name": "URL_AG_OVERVIEW",
+    "description": "Allgemeine Übersicht der AGs",
+    "url": "http://www.grabbe-gymnasium.de/#cmsimpleOnePage5"
+  },
+  {
+    "name": "URL_TABLET_KNIGGE",
+    "description": "Tablet-Nutzervereinbarung (Tablet-Knigge) am Grabbe-Gymnasium",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/2324_Tablet_Knigge%20am_Grabbe.pdf"
+  },
+  {
+    "name": "URL_SCHULORDNUNG",
+    "description": "Haus- und Schulordnung des Grabbe-Gymnasiums",
+    "url": "http://www.grabbe-gymnasium.de/infos/organisation/?Haus-_und_Schulordnung"
+  },
+  {
+    "name": "URL_WLAN_ANTRAG",
+    "description": "Antrag für kostenloses WLAN (Oberstufe)",
+    "url": "http://www.grabbe-gymnasium.de/oberstufe2/#cmsimpleOnePage3"
+  },
+  {
+    "name": "URL_FOERDERKONZEPT",
+    "description": "Förderkonzept des Grabbe-Gymnasiums",
+    "url": "http://www.grabbe-gymnasium.de/foerderkonzept2/"
+  },
+  {
+    "name": "URL_RIECHE_HOMEPAGE",
+    "description": "Homepage von Herrn Rieche (Aufgabe des Monats, Kopfübungen etc.)",
+    "url": "http://s-rieche.de"
+  },
+  {
+    "name": "URL_JAHRESKALENDER",
+    "description": "Jahreskalender mit allen wichtigen Terminen",
+    "url": "http://www.grabbe-gymnasium.de/medien/kalender/schuljahresplan.php"
+  },
+  {
+    "name": "URL_OBERSTUFENPORTAL",
+    "description": "Portal für die Oberstufe, inkl. Kurswahl & Termine",
+    "url": "http://www.grabbe-gymnasium.de/oberstufe2/"
+  },
+  {
+    "name": "URL_LEHRPLAENE",
+    "description": "Lehrpläne des Grabbe-Gymnasiums",
+    "url": "http://www.grabbe-gymnasium.de/infos/unterricht/#cmsimpleOnePage7"
+  },
+  {
+    "name": "URL_NACHMITTAGSANGEBOT",
+    "description": "Informationen zu Nachmittagsbetreuung und AGs",
+    "url": "http://www.grabbe-gymnasium.de/cms_hp/nachmittag/"
+  },
+  {
+    "name": "URL_LEITBILD",
+    "description": "Übersichtsseite zum Schulprofil und Leitbild",
+    "url": "http://www.grabbe-gymnasium.de/#cmsimpleOnePage8"
+  },
+  {
+    "name": "URL_OFFENE_STELLEN",
+    "description": "Offene Stellen am Grabbe-Gymnasium",
+    "url": "http://www.grabbe-gymnasium.de/infos/organisation/?Offene_Stellen"
+  },
+  {
+    "name": "URL_GRABBE_WEBSITE",
+    "description": "Allgemeine Homepage des Grabbe-Gymnasiums",
+    "url": "http://grabbe-gymnasium.de"
+  },
+  {
+    "name": "URL_DOWNLOADS_ROOT",
+    "description": "Downloads-Übersicht (Root-Verzeichnis)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/"
+  },
+
+  /* ---------- Aus der zweiten Datenblock-Liste (Formulare etc.) ---------- */
+  {
+    "name": "URL_FORM_ANMELDUNG_JG5",
+    "description": "Anmeldeformular für Jahrgangsstufe 5",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/2526_Anmeldeformular_Jg.5.pdf"
+  },
+  {
+    "name": "URL_EINWILLIGUNG_DATEN",
+    "description": "Einwilligung für IServ und mehr",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/Einwilligung_Daten_12_2024.pdf"
+  },
+  {
+    "name": "URL_FORM_HAUSBETREUUNG_5",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (5. Klasse)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Neuanmeldung5er.pdf"
+  },
+  {
+    "name": "URL_FORM_HAUSBETREUUNG_6",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (6. Klasse)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Anmeldung6er.pdf"
+  },
+  {
+    "name": "URL_SEPA_HABETREUUNG",
+    "description": "Zahlungsschein SEPA für Hausaufgabenbetreuung",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/SEPA.pdf"
+  },
+  {
+    "name": "URL_FORM_ABMELDUNG_RELIGION",
+    "description": "Abmeldung vom Religionsunterricht",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/2324_Abmeldung_RU_Formular.pdf"
+  },
+  {
+    "name": "URL_MATERIALLISTE_KLASSE_5",
+    "description": "Benötigte Materialien Klasse 5",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/2425_Materialliste_Klasse%205.pdf"
+  },
+  {
+    "name": "URL_AG_LISTE",
+    "description": "Liste aller AGs (PDF)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/AGs_24-25-Aushang.pdf"
+  },
+  {
+    "name": "URL_ANLEITUNG_WEBUNTIS",
+    "description": "Anleitung WebUntis für Eltern",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Anleitung_Webuntis_f%C3%BCr_Eltern.pdf"
+  },
+  {
+    "name": "URL_FORM_ANMELDUNG_OBERSTUFE",
+    "description": "Anmeldeformular für die Oberstufe",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Anmeldung%20Oberstufe_neu.pdf"
+  },
+  {
+    "name": "URL_FORM_FAHRTKOSTEN",
+    "description": "Antrag auf kostenloses Schülerticket (ÖPNV)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Fahrtkosten-Antrag.pdf"
+  },
+  {
+    "name": "URL_HAUSORDNUNG_PDF",
+    "description": "Hausordnung (PDF)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Hausordnung_2024_ohneErweiterung.pdf"
+  },
+  {
+    "name": "URL_FORM_NEUAUFNAHME_6_13",
+    "description": "Neuaufnahme Klasse 6-13",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Neuaufnahme_Klasse%206-13%20Formular_digitalauszuf%C3%BCllen%20mitLibreOffice%C3%B6ffnen.pdf"
+  },
+  {
+    "name": "URL_BUCHBESTELLUNG_2024",
+    "description": "Übersicht anzuschaffende Schulbücher 2024/25",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Schulbuchbestellung_Eltern2024.pdf"
+  },
+  {
+    "name": "URL_SCHULPFLICHT_AUFKLAERUNG",
+    "description": "Aufklärung über die Schulpflicht",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Schulpflicht%20Aufkl%C3%A4rung.pdf"
+  },
+  {
+    "name": "URL_KRANKMELDUNG_5_10",
+    "description": "Hinweise zur Krankmeldung (5-10)",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Krankmeldung_Klasse%205-10.pdf"
+  },
+  {
+    "name": "TAG_DER_OFFENEN_TUER_2025",
+    "description": "Datum Tag der offenen Tür 2025",
+    "url": "Samstag, den 11.01.2025 von 9:30-13:00 Uhr"
+  },
+  {
+    "name": "HALBJAHR_ZEUGNISSE",
+    "description": "Zeugnissausgabe 2025 (Halbjahr) und Beginn des zweiten Halbjahres",
+    "url": "Samstag, den 11.01.2025 von 9:30-13:00 Uhr"
+  }
+]

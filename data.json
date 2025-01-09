@@ -1,0 +1,249 @@
+[
+  {
+    "//": "======================================================",
+    "//": "Regeln zur Tablet-Nutzung",
+    "//": "======================================================"
+  },
+  {
+    "question": "Welche Regeln gibt es zur Nutzung eigener Tablets am Grabbe-Gymnasium?",
+    "answer": "Die Nutzung privater Tablets wird durch den sogenannten Tablet-Knigge geregelt. Du darfst dein Tablet nur für schulische Zwecke im Unterricht verwenden. In den Pausen ist es grundsätzlich untersagt, es sei denn, eine Lehrkraft erlaubt es ausdrücklich. Die genauen Bedingungen findest du in [[URL_TABLET_KNIGGE]]."
+  },
+  {
+    "question": "Was ist der Grabbetabletsticker?",
+    "answer": "Der Grabbetabletsticker ist ein Symbol, das zeigt, dass du die Regeln zur Tablet-Nutzung akzeptierst und deinen Nutzungsvertrag unterzeichnet hast."
+  },
+  {
+    "question": "Wie ist das Konzept für die Nutzung von Tablets und Laptops im Unterricht?",
+    "answer": "Ab der 7. Klasse dürfen Schülerinnen und Schüler eigene Geräte (Tablets oder Laptops) mitbringen. Zudem stehen Klassensätze an Laptops bereit, die von Lehrkräften gebucht werden können."
+  },
+  {
+    "question": "Was muss ich tun, wenn ich mein privates Tablet in der Schule nutzen möchte?",
+    "answer": "Du musst vorab die Nutzungsvereinbarung (Tablet-Knigge) unterschreiben und bei der zuständigen Lehrkraft (z. B. Frau Knüppel) abgeben. Außerdem brauchst du einen Eingabestift oder eine passende Tastatur, um im Unterricht effektiv arbeiten zu können."
+  },
+
+  {
+    "//": "======================================================",
+    "//": "Verhaltensrichtlinien",
+    "//": "======================================================"
+  },
+  {
+    "question": "Welche Regeln gelten auf dem Schulgelände?",
+    "answer": "Rauchen, Alkoholkonsum und das unerlaubte Nutzen mobiler Endgeräte sind verboten. Detaillierte Informationen findest du in der Schulordnung unter [[URL_SCHULORDNUNG]]."
+  },
+  {
+    "question": "Gibt es eine Schuluniform oder Kleiderordnung?",
+    "answer": "Es gibt keine verpflichtende Schuluniform. Wir erwarten lediglich angemessene, respektvolle Kleidung."
+  },
+  {
+    "question": "Darf man in den Pausen sein Smartphone benutzen?",
+    "answer": "Smartphones müssen grundsätzlich unsichtbar und lautlos bleiben. Nur mit Erlaubnis einer Lehrkraft oder in der Oberstufe in ausgewiesenen Bereichen ist die Nutzung gestattet."
+  },
+  {
+    "question": "Was ist auf dem Schulgelände nicht erlaubt?",
+    "answer": "Nicht erlaubt sind Rauchen, Alkohol und die Benutzung mobiler Endgeräte ohne Genehmigung. Alle Einzelheiten stehen in der Haus- und Schulordnung (siehe [[URL_SCHULORDNUNG]])."
+  },
+
+  {
+    "//": "======================================================",
+    "//": "Digitale Plattformen",
+    "//": "======================================================"
+  },
+  {
+    "question": "Was ist IServ?",
+    "answer": "IServ ist eine webbasierte Plattform für Schulen. Hierüber werden Vertretungspläne, Dokumentenaustausch und schulinterne Kommunikation organisiert. Du erreichst IServ unter [[URL_ISERV]]."
+  },
+  {
+    "question": "Wie setze ich mein IServ-Passwort zurück, wenn ich es vergessen habe?",
+    "answer": "Wende dich an eine Lehrkraft, damit dein Passwort über das System zurückgesetzt werden kann. Du erhältst dann ein Einmalpasswort und kannst anschließend ein neues vergeben."
+  },
+  {
+    "question": "Gibt es eine IServ-App?",
+    "answer": "Ja, IServ gibt es als App für Android und iOS. Alternativ kannst du über [[URL_ISERV]] auch in deinem Browser darauf zugreifen."
+  },
+  {
+    "question": "Wo finde ich den WLAN-Antrag für die Oberstufe?",
+    "answer": "Den Antrag für kostenloses WLAN in der Oberstufe findest du unter [[URL_WLAN_ANTRAG]]."
+  },
+  {
+    "question": "Wie werden Vertretungsaufgaben mitgeteilt?",
+    "answer": "Vertretungsaufgaben findest du im IServ-Aufgabenmodul. Außerdem kannst du Vertretungspläne über WebUntis einsehen."
+  },
+  {
+    "question": "Wie erhalte ich ein kostenloses Microsoft 365 Paket?",
+    "answer": "Um Microsoft 365 gratis zu nutzen, musst du die entsprechende Nutzungserklärung unterschreiben und bei einer Lehrkraft abgeben. Anschließend bekommst du deine Zugangsdaten."
+  },
+
+  {
+    "//": "======================================================",
+    "//": "Schulorganisation",
+    "//": "======================================================"
+  },
+  {
+    "question": "Was ist das Grabbe-Gymnasium?",
+    "answer": "Das Christian-Dietrich-Grabbe-Gymnasium in Detmold ist ein öffentliches Gymnasium mit den Jahrgangsstufen 5 bis 13. Es ist nach dem Dramatiker Christian Dietrich Grabbe benannt und wird oft nur „Grabbe“ genannt."
+  },
+  {
+    "question": "Welche Schwerpunkte haben die Klassen am Grabbe-Gymnasium?",
+    "answer": "Es gibt vier Schwerpunkte: naturwissenschaftlich (gn), Kunst (k), Musik (m) und Sport (s). In Klasse 5 und 6 wird jeweils eine Doppelstunde „Projektunterricht“ zu diesem Schwerpunkt angeboten."
+  },
+  {
+    "question": "Wie sieht ein typischer Schultag aus?",
+    "answer": "Der Unterricht beginnt um 7:40 Uhr und endet in der Regel um 13:00 Uhr. Häufig wird in Doppelstunden unterrichtet."
+  },
+  {
+    "question": "Wer ist für die Hausaufgabenbetreuung zuständig?",
+    "answer": "Frau Bossmanns koordiniert die Nachmittagsbetreuung. Du kannst sie bei Fragen oder Krankmeldungen per E-Mail kontaktieren."
+  },
+  {
+    "question": "Wie melde ich mein krankes Kind vom Unterricht ab?",
+    "answer": "Rufe bitte vor Unterrichtsbeginn im Sekretariat an (Anrufbeantworter ist jederzeit erreichbar). Anschließend muss eine schriftliche Entschuldigung im Grabbe-Planer nachgereicht werden. Detaillierte Infos stehen in [[URL_KRANKMELDUNG_5_10]]."
+  },
+  {
+    "question": "Was passiert, wenn mein Kind länger als fünf Tage krank ist?",
+    "answer": "Ab einer Krankheit von mehr als fünf Tagen ist ein ärztliches Attest erforderlich."
+  },
+  {
+    "question": "Wie entschuldige ich die Fehltage meines Kindes nach der Krankheit?",
+    "answer": "Trage die Fehltage im Entschuldigungsabschnitt im Grabbe-Planer ein, damit dein Kind sie der Klassenleitung vorlegen kann. Ein Anruf ersetzt nicht die schriftliche Entschuldigung."
+  },
+  {
+    "question": "Was mache ich, wenn mein Kind während der Unterrichtszeit erkrankt?",
+    "answer": "Du wirst telefonisch benachrichtigt. In den Jahrgängen 5-7 muss ein Familienmitglied das Kind abholen. Ab Klasse 8 darf dein Kind mit deiner telefonischen Erlaubnis selbst nach Hause gehen."
+  },
+  {
+    "question": "Gibt es eine Mensa?",
+    "answer": "Ja, die Mensa bietet Getränke, Snacks und ein warmes Mittagessen nach der 6. Stunde. Die Preise liegen bei rund 4,50€ für ein warmes Essen."
+  },
+  {
+    "question": "Welche Pausenzeiten gibt es?",
+    "answer": "Nach jeder Unterrichtsstunde gibt es eine kurze Pause (5 Minuten). Die großen Pausen sind von 9:15-9:25 Uhr (nach der 2. Stunde) und von 11:05-11:20 Uhr (nach der 4. Stunde)."
+  },
+  {
+    "question": "Darf man in den Pausen das Schulgelände verlassen?",
+    "answer": "Bis zur Klasse 7 ist das Verlassen des Schulgeländes nicht erlaubt. Ab der 8. Klasse kann in Ausnahmen (lange Mittagspause) mit Genehmigung das Gelände verlassen werden."
+  },
+  {
+    "question": "Wann finden Elternsprechtage statt?",
+    "answer": "Im Schuljahr gibt es zwei Elternsprechtage. Die genauen Termine stehen im Jahreskalender unter [[URL_JAHRESKALENDER]]."
+  },
+  {
+    "question": "Wie werde ich informiert, wenn mein Kind seine Hausaufgaben nicht erledigt hat?",
+    "answer": "Lehrkräfte vermerken fehlende Hausaufgaben oder Materialien im Grabbe-Planer."
+  },
+  {
+    "question": "Wo finde ich den Jahreskalender mit allen wichtigen Informationen?",
+    "answer": "Den Jahreskalender findest du unter [[URL_JAHRESKALENDER]]."
+  },
+  {
+    "question": "Gibt es eine Schulbibliothek?",
+    "answer": "Ja, im Selbstlernzentrum (SLZ) kannst du Bücher ausleihen. Es gibt dort auch Computerarbeitsplätze, Tische und Entspannungsmöglichkeiten."
+  },
+  {
+    "question": "Wann ist der Tag der offenen Tür?",
+    "answer": "Der Tag der offenen Tür findet am in [[TAG_DER_OFFENEN_TUER_2025]] genannten Termin statt."
+  },
+  {
+    "question": "Wie kann man sich für Nachmittagsangebote wie AGs informieren?",
+    "answer": "Auf der Übersicht [[URL_AG_OVERVIEW]] findest du alle Arbeitsgemeinschaften. Auch im Downloads-Bereich (s. [[URL_AG_LISTE]]) gibt es Listen mit aktuellen AGs."
+  },
+  {
+    "question": "Welche Austauschprogramme gibt es?",
+    "answer": "Das Grabbe-Gymnasium kooperiert mit Schulen in Saint-Omer (Frankreich) und Israel. Das Jugendorchester besucht zudem das McLean Orchestra in Washington."
+  },
+  {
+    "question": "Welche Berufsvorbereitungsmaßnahmen werden angeboten?",
+    "answer": "Wir haben Praktika in Klasse 8, 10 und Q1, sowie den Girls’ & Boys’ Day, Berufsfelderkundungstage und eine Kooperation mit der Agentur für Arbeit."
+  },
+  {
+    "question": "Gibt es besondere Förderprogramme für naturwissenschaftlich interessierte Schülerinnen und Schüler?",
+    "answer": "Ja, es gibt eine naturwissenschaftliche Klasse (gn-Klasse) mit erweitertem NaWi-Projektunterricht in Klasse 5 und 6. Ab Klasse 7 gibt es eine NaWi-AG."
+  },
+  {
+    "question": "Was sind die Ferientermine und schulfreien Tage?",
+    "answer": "Diese findest du im Jahreskalender unter [[URL_JAHRESKALENDER]]."
+  },
+  {
+    "question": "Wie funktioniert die Bestellung von Schulbüchern?",
+    "answer": "Die Bücherbestellung wird zentral über einen Verantwortlichen (z. B. Herrn Rieche) organisiert. Eine Übersicht der Bücher findest du ggf. in [[URL_BUCHBESTELLUNG_2024]]."
+  },
+  {
+    "question": "Gibt es Ganztagsangebote oder Nachmittagsbetreuung?",
+    "answer": "Obwohl das Grabbe-Gymnasium kein Ganztagsgymnasium ist, gibt es eine Hausaufgabenbetreuung (v. a. für die Klassen 5 und 6) und zahlreiche AGs. Mehr Infos unter [[URL_NACHMITTAGSANGEBOT]]."
+  },
+  {
+    "question": "Gibt es eine Sportklasse?",
+    "answer": "Ja, es gibt einen Sport-Schwerpunkt (s-Klasse) für bewegungs- und sportbegeisterte Schülerinnen und Schüler."
+  },
+  {
+    "question": "Wer kann bei Fragen oder Feedback zu GrabbeAI kontaktiert werden?",
+    "answer": "Schicke eine E-Mail an finnbusse@outlook.de."
+  },
+
+  {
+    "//": "======================================================",
+    "//": "Besondere Rollen",
+    "//": "======================================================"
+  },
+  {
+    "question": "Wer ist der Schulleiter des Grabbe-Gymnasiums?",
+    "answer": "Der Schulleiter ist Dr. Claus Hilbing. Er unterrichtet Mathematik, Erdkunde und Chemie."
+  },
+  {
+    "question": "Wer ist die stellvertretende Schulleiterin des Grabbe-Gymnasiums?",
+    "answer": "Die stellvertretende Schulleiterin ist Anja Vothknecht."
+  },
+  {
+    "question": "Wer ist der Hausmeister des Grabbe-Gymnasiums?",
+    "answer": "Der Hausmeister heißt Herr Hauptstein. Er ist jedoch kein Lehrer; du erreichst ihn telefonisch oder per E-Mail über das Sekretariat."
+  },
+  {
+    "question": "Wer ist der Mittelstufenkoordinator?",
+    "answer": "Der Mittelstufenkoordinator ist Dr. Chee, er unterrichtet Deutsch und Englisch."
+  },
+  {
+    "question": "Wer ist der neue Unterstufenkoordinator?",
+    "answer": "Das ist Herr Stefan Hecker. Er ist nicht mit Frau Hecker zu verwechseln."
+  },
+  {
+    "question": "Wer ist für die internationalen Klassen (IV) verantwortlich?",
+    "answer": "Frau Gerhardt betreut die internationalen Klassen (IV)."
+  },
+  {
+    "question": "Wer ist für Referendare und Praktikanten zuständig?",
+    "answer": "Frau Maia betreut Referendare, Praktikanten und Praxissemester-Studierende."
+  },
+  {
+    "question": "Gibt es eine Schulsozialarbeiterin?",
+    "answer": "Ja, Sylvia Möbus ist unsere Schulsozialarbeiterin. Sie ist per E-Mail und telefonisch erreichbar. Da sie keine Lehrkraft ist, steht sie nicht in teachers.json."
+  },
+  {
+    "question": "Welche Erprobungsstufenkoordinatoren sind für die Klassen 5 zuständig?",
+    "answer": "Frau Fernandez, Herr Rieche und Herr Wessel (alle in teachers.json aufgeführt)."
+  },
+  {
+    "question": "Welche Erprobungsstufenkoordinatoren sind für die Klassen 6 zuständig?",
+    "answer": "Frau Bossmanns und Frau Engelskirchen sind dafür zuständig."
+  },
+  {
+    "question": "Wer koordiniert die Oberstufe?",
+    "answer": "Die Oberstufenkoordinatorin ist Frau Mannebach."
+  },
+  {
+    "question": "Wer hat die beste Lateinlehrerin?",
+    "answer": "Die beste Lateinlehrerin am Grabbe-Gymnasium ist definitiv Frau Schröder."
+  },
+  {
+    "question": "Wo erfahre ich, wer in der Schulverwaltung hilft?",
+    "answer": "Herr Schilling übernimmt die Schulverwaltung. Details sind in teachers.json."
+  },
+
+  {
+    "//": "======================================================",
+    "//": "Sonstige zusammengefasste Fragen (Keine Informationen vorhanden)",
+    "//": "======================================================"
+  },
+  {
+    "question": "Ich habe einen Namen (z. B. Herr XYZ), finde aber keine Infos. Wer ist das?",
+    "answer": "Zu Lehrkräften ohne spezielle Funktion oder bei unbekannten Namen liegen uns keine Informationen vor. Bitte überprüfe ggf. die offizielle Ansprechpartnerliste in [[URL_ORGANISATION_ANSPRECHPARTNER]] oder kontaktiere das Sekretariat."
+  }
+]
