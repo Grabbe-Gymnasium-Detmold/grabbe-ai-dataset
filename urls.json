@@ -167,13 +167,13 @@
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Krankmeldung_Klasse%205-10.pdf"
   },
   {
-    "name": "TAG_DER_OFFENEN_TUER_2025",
-    "description": "Datum Tag der offenen Tür 2025",
-    "url": "Samstag, den 11.01.2025 von 9:30-13:00 Uhr"
+    "name": "TAG_DER_OFFENEN_TUER_NAECHSTER",
+    "description": "Datum nächster Tag der offenen Tür",
+    "url": "voraussichtlich Januar 2026"
   },
   {
     "name": "HALBJAHR_ZEUGNISSE",
     "description": "Zeugnissausgabe 2025 (Halbjahr) und Beginn des zweiten Halbjahres",
-    "url": "Samstag, den 11.01.2025 von 9:30-13:00 Uhr"
+    "url": "Freitag, den 07.02.2025"
   }
 ]
