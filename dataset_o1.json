@@ -18,7 +18,7 @@
   },
   {
     "question": "Was muss ich tun, wenn ich mein privates Tablet in der Schule nutzen möchte?",
-    "answer": "Du musst die Nutzungsvereinbarung unterschreiben und bei Frau Knüppel abgeben. Stift oder Tastatur werden benötigt. [[URL_TABLET_KNIGGE]]"
+    "answer": "Du musst die Nutzungsvereinbarung von der Website unterschreiben und bei Frau Knüppel abgeben. Stift oder Tastatur werden benötigt."
   },
 
   {
@@ -32,7 +32,7 @@
   },
   {
     "question": "Wo finde ich die Schulordnung?",
-    "answer": "Die Schulordnung findest du hier: [[URL_SCHULORDNUNG]]"
+    "answer": "Die Schulordnung findest du auf der Website."
   },
   {
     "question": "Gibt es eine Schuluniform oder Kleiderordnung?",
@@ -54,11 +54,11 @@
   },
   {
     "question": "Was ist IServ?",
-    "answer": "IServ ist eine Schulplattform für Vertretungspläne, Datenaustausch und Kommunikation. [[URL_ISERV]]"
+    "answer": "IServ ist eine Schulplattform für Vertretungspläne, Datenaustausch und Kommunikation."
   },
   {
     "question": "Wo ist die Datenschutzeinwilligung?",
-    "answer": "Die Datenschutzeinwilligung findest du hier: [[URL_EINWILLIGUNG_DATEN]]"
+    "answer": "Die Datenschutzeinwilligung findest du auf der Website."
   },
   {
     "question": "Wie setze ich mein IServ-Passwort zurück, wenn ich es vergessen habe?",
@@ -70,7 +70,7 @@
   },
   {
     "question": "Wo finde ich den WLAN-Antrag für die Oberstufe?",
-    "answer": "Den Antrag findest du auf der Schulwebsite. [[URL_WLAN_ANTRAG]]"
+    "answer": "Den Antrag findest du auf der Schulwebsite."
   },
   {
     "question": "Wie werden Vertretungsaufgaben mitgeteilt?",
@@ -78,12 +78,12 @@
   },
   {
     "question": "Erhalten Schüler ein kostenfreies Microsoft 365-Paket?",
-    "answer": "Schüler erhalten ein kostenloses Microsoft 365-Paket. Gebe hierzu den ausgefüllten Antrag bei einem Lehrer ab. [[URL_FORMULAR_MICROSOFT_365]]"
+    "answer": "Schüler erhalten ein kostenloses Microsoft 365-Paket. Gebe hierzu den ausgefüllten Antrag von der Website bei einem Lehrer ab."
 
   },
   {
     "question": "Wo finde ich sonstige Dokumente zum Download?",
-    "answer": "Hier ist eine Übersicht: [[URL_DOWNLOADS_ROOT]]"
+    "answer": "Eine Übersicht ist auf der Website."
   },
 
   {
@@ -97,11 +97,11 @@
   },
   {
     "question": "Wo kann ich die Lehrpläne einsehen?",
-    "answer": "Die aktuellen Lehrpläne findest du auf der Schulwebsite. [[URL_LEHRPLAENE]]"
+    "answer": "Die aktuellen Lehrpläne findest du auf der Schulwebsite."
   },
   {
     "question": "Wo sehe ich alle Ansprechpartner?",
-    "answer": "Hier ist eine Übersicht über alle Ansprechpartner: [[URL_ORGANISATION_ANSPRECHPARTNER]]"
+    "answer": "Eine Übersicht ist auf der Website."
   },
   {
     "question": "Welche Schwerpunkte haben die Klassen am Grabbe-Gymnasium?",
@@ -113,15 +113,15 @@
   },
   {
     "question": "Wer ist für die Hausaufgabenbetreuung zuständig?",
-    "answer": "Frau Bossmanns koordiniert die Nachmittagsbetreuung. Hier ist das Anmeldeformular: [[URL_FORM_HAUSBETREUUNG_5"
+    "answer": "Frau Bossmanns koordiniert die Nachmittagsbetreuung."
   },
   {
     "question": "Wie melde ich mich für die Oberstufe an?",
-    "answer": "Hier ist das Formular: [[URL_FORM_ANMELDUNG_OBERSTUFE]]"
+    "answer": "Das Formular ist auf der Website."
   },
   {
     "question": "Wo finde ich das Anmeldeformular für die Klassen 6 bis 13?",
-    "answer": "Hier ist das Formular: [[URL_FORM_NEUAUFNAHME_6_13]]"
+    "answer": "Das entsprechende Formular findest du auf der Website."
   },
   {
     "question": "Wie melde ich mein krankes Kind vom Unterricht ab?",
@@ -169,15 +169,15 @@
   },
   {
     "question": "Wo kann ich mich über das Leitbild informieren?",
-    "answer": "Das Leitbild findest du hier: [[URL_LEITBILD]]"
+    "answer": "Das Leitbild findest du auf unserer Website."
   },
   {
     "question": "Wo sehe ich offene Stellen?",
-    "answer": "Offene Stellen findest du hier: [[URL_OFFENE_STELLEN]]"
+    "answer": "Offene Stellen findest du auf unserer Website."
   },
   {
     "question": "Wie kann man sich über Nachmittagsangebote und AGs informieren?",
-    "answer": "Hier ist die Liste mit den AGs: [[URL_AG_OVERVIEW]] [[URL_NACHMITTAGSANGEBOT]]"
+    "answer": "Eine Liste mit AGs und Nachmittagsangeboten findest du auf unserer Website."
   },
   {
     "question": "Welche Austauschprogramme gibt es?",
@@ -193,11 +193,11 @@
   },
   {
     "question": "Wie funktioniert die Bestellung von Schulbüchern?",
-    "answer": "Hier ist eine Übersicht der anzuschaffenden Schulbücher: [[URL_BUCHBESTELLUNG]]"
+    "answer": "Auf unserer Website ist eine Liste mit den anzuschaffenden Büchern."
   },
   {
     "question": "Wo kann ich die Aufgabe des Monats an Herrn Rieche abgeben?",
-    "answer": "Das geht am besten auf seiner Website [[URL_RIECHE_HOMEPAGE]]"
+    "answer": "Das geht am besten auf seiner Website."
   },
   {
     "question": "Gibt es Ganztagsangebote oder Nachmittagsbetreuung?",
@@ -217,7 +217,7 @@
   },
   {
     "question": "Wie melde ich mein krankes Kind vom Unterricht ab (alternative Nummer)?",
-    "answer": "Du kannst das Sekretariat auch unter 05231–9926288 anrufen. Anschließend bitte eine schriftliche Entschuldigung nachreichen. Hier sind weitere Hinweise: [[URL_KRANKMELDUNG_5_10]]"
+    "answer": "Du kannst das Sekretariat auch unter 05231–9926288 anrufen. Anschließend bitte eine schriftliche Entschuldigung nachreichen. Weitere Hinweise auf der Website."
   },
   {
     "question": "Was mache ich, wenn mein Kind an der Hausaufgabenbetreuung teilnimmt und krank ist?",
@@ -391,7 +391,7 @@
   },
   {
     "question": "Darf man das Tablet statt Stift/Papier nutzen?",
-    "answer": "Ab Klasse 7 darfst du es, wenn du dich an die Nutzungsregeln hältst. Dazu dieses Formular ausfüllen: [[URL_TABLET_KNIGGE]]"
+    "answer": "Ab Klasse 7 darfst du es, wenn du dich an die Nutzungsregeln hältst. Dazu das Formular auf der Website ausfüllen."
   },
   {
     "question": "Wo hängen die Vertretungspläne?",
@@ -423,11 +423,11 @@
   },
   {
     "question": "Welche AGs gibt es?",
-    "answer": "Fußball, Kunst, Musik, Theater und weitere. [[URL_AG_OVERVIEW]]"
-  },Ma
+    "answer": "Fußball, Kunst, Musik, Theater und weitere. Mehr Infos auf der Website."
+  },
   {
     "question": "Wie melde ich mich vom Religionsunterricht abmelden?",
-    "answer": "Hier ist das Formular: [[URL_FORM_ABMELDUNG_RELIGION]]"
+    "answer": "Das Formular findest du auf der Website."
   },
   {
     "question": "Wie werden Eltern über den Fortschritt informiert?",
@@ -435,7 +435,7 @@
   },
   {
     "question": "Wie melde ich mein Kind für die neue 5. Klasse an?",
-    "answer": "Über das Online-Formular: [[URL_TERMIN_ANMELDUNG]]. Das Anmeldeformular ist hier: [[URL_FORM_ANMELDUNG_JG5]]."
+    "answer": "Die Hinweise sind auf der Website."
   },
   {
     "question": "Gibt es Förderungen für naturwissenschaftliche Interessen?",
@@ -455,7 +455,7 @@
   },
   {
     "question": "Welche Materialien benötigt mein Kind in Klasse 5?",
-    "answer": "Hier ist die Materialliste: [[URL_MATERIALLISTE_KLASSE_5]]"
+    "answer": "Die Materialliste ist auf der Website."
   },
   {
     "question": "Wie melde ich mich zu Förderkursen an?",
@@ -471,7 +471,7 @@
   },
   {
     "question": "Wo finde ich Einzelheiten zum Förderkonzept?",
-    "answer": "In folgendem Dokument: [[URL_FOERDERKONZEPT]]"
+    "answer": "Auf der Website."
   },
   {
     "question": "Welche Ferien gibt es?",
