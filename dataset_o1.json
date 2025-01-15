@@ -69,8 +69,8 @@
     "answer": "Über das Aufgabenmodul in IServ. Außerdem kann WebUntis für Vertretungspläne genutzt werden."
   },
   {
-    "question": "Wie erhalte ich ein kostenloses Microsoft 365 Paket?",
-    "answer": "Fülle die entsprechende Erklärung aus und gib sie bei einer Lehrkraft ab. Du bekommst dann die Zugangsdaten."
+    "question": "Erhalten Schüler ein kostenfreies Microsoft 365-Paket?",
+    "answer": "Schüler erhalten ein kostenloses Microsoft 365-Paket. Gebe hierzu bitte den ausgefüllten Antrag bei einem Lehrer ab."
 
   },
 
@@ -250,12 +250,8 @@
     "answer": "Sylvia Möbus. Sie ist keine Lehrkraft. E-Mail: s.moebus@grabbe.nrw.schule"
   },
   {
-    "question": "Welche Erprobungsstufenkoordinatoren sind für Klasse 5 zuständig?",
-    "answer": "Frau Fernandez, Herr Rieche, Herr Wessel."
-  },
-  {
-    "question": "Welche Erprobungsstufenkoordinatoren sind für Klasse 6 zuständig?",
-    "answer": "Frau Bossmanns (b.bossmanns@grabbe.nrw.schule) und Frau Engelskirchen."
+    "question": "Wer ist der Erprobungsstufenkoordinator?",
+    "answer": "Der neue Erprobungsstufenkoordinator ist Herr Stefan Hecker."
   },
   {
     "question": "Wer koordiniert die Oberstufe?",
