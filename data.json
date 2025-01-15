@@ -70,7 +70,7 @@
   },
   {
     "question": "Wie erhalte ich ein kostenloses Microsoft 365 Paket?",
-    "answer": "Um Microsoft 365 gratis zu nutzen, musst du die entsprechende Nutzungserklärung unterschreiben und bei einer Lehrkraft abgeben. Anschließend bekommst du deine Zugangsdaten."
+    "answer": "Schüler können ein kostenloses Microsoft Office 365 Paket beantragen. Dazu musst du das dazugehörige Formular ausfüllen und einer Lehrkraft g[[URL_FORMULAR_MICROSOFT_365]]"
   },
 
   {
@@ -202,7 +202,7 @@
   },
   {
     "question": "Wer ist der neue Unterstufenkoordinator?",
-    "answer": "Das ist Herr Stefan Hecker. Er ist nicht mit Frau Hecker zu verwechseln."
+    "answer": "Das ist Herr Stefan Hecker."
   },
   {
     "question": "Wer ist für die internationalen Klassen (IV) verantwortlich?",
@@ -217,12 +217,8 @@
     "answer": "Ja, Sylvia Möbus ist unsere Schulsozialarbeiterin. Sie ist per E-Mail und telefonisch erreichbar. Da sie keine Lehrkraft ist, steht sie nicht in teachers.json."
   },
   {
-    "question": "Welche Erprobungsstufenkoordinatoren sind für die Klassen 5 zuständig?",
-    "answer": "Frau Fernandez, Herr Rieche und Herr Wessel (alle in teachers.json aufgeführt)."
-  },
-  {
-    "question": "Welche Erprobungsstufenkoordinatoren sind für die Klassen 6 zuständig?",
-    "answer": "Frau Bossmanns und Frau Engelskirchen sind dafür zuständig."
+    "question": "Wer ist der Erprobungsstufenkoordinator?",
+    "answer": "Der neue Erprobungsstufenkoordinator ist Herr Stefan Hecker."
   },
   {
     "question": "Wer koordiniert die Oberstufe?",
@@ -234,7 +230,7 @@
   },
   {
     "question": "Wo erfahre ich, wer in der Schulverwaltung hilft?",
-    "answer": "Herr Schilling übernimmt die Schulverwaltung. Details sind in teachers.json."
+    "answer": "Herr Schilling übernimmt die Schulverwaltung."
   },
 
   {
