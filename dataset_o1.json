@@ -18,7 +18,7 @@
   },
   {
     "question": "Was muss ich tun, wenn ich mein privates Tablet in der Schule nutzen möchte?",
-    "answer": "Du musst die Nutzungsvereinbarung unterschreiben und bei Frau Knüppel abgeben. Außerdem benötigst du einen Stift oder eine Tastatur."
+    "answer": "Du musst die Nutzungsvereinbarung unterschreiben und bei Frau Knüppel abgeben. Stift oder Tastatur werden benötigt. [[URL_TABLET_KNIGGE]]"
   },
 
   {
@@ -29,6 +29,10 @@
   {
     "question": "Welche Regeln gelten auf dem Schulgelände?",
     "answer": "Rauchen, Alkohol und das unerlaubte Nutzen mobiler Endgeräte sind verboten. Einzelheiten stehen in der Schulordnung."
+  },
+  {
+    "question": "Wo finde ich die Schulordnung?",
+    "answer": "Die Schulordnung findest du hier: [[URL_SCHULORDNUNG]]"
   },
   {
     "question": "Gibt es eine Schuluniform oder Kleiderordnung?",
@@ -50,7 +54,11 @@
   },
   {
     "question": "Was ist IServ?",
-    "answer": "IServ ist eine Schulplattform für Vertretungspläne, Datenaustausch und Kommunikation."
+    "answer": "IServ ist eine Schulplattform für Vertretungspläne, Datenaustausch und Kommunikation. [[URL_ISERV]]"
+  },
+  {
+    "question": "Wo ist die Datenschutzeinwilligung?",
+    "answer": "Die Datenschutzeinwilligung findest du hier: [[URL_EINWILLIGUNG_DATEN]]"
   },
   {
     "question": "Wie setze ich mein IServ-Passwort zurück, wenn ich es vergessen habe?",
@@ -62,7 +70,7 @@
   },
   {
     "question": "Wo finde ich den WLAN-Antrag für die Oberstufe?",
-    "answer": "Den Antrag erhältst du im Sekretariat oder bei der Oberstufenkoordination."
+    "answer": "Den Antrag findest du auf der Schulwebsite. [[URL_WLAN_ANTRAG]]"
   },
   {
     "question": "Wie werden Vertretungsaufgaben mitgeteilt?",
@@ -70,8 +78,12 @@
   },
   {
     "question": "Erhalten Schüler ein kostenfreies Microsoft 365-Paket?",
-    "answer": "Schüler erhalten ein kostenloses Microsoft 365-Paket. Gebe hierzu bitte den ausgefüllten Antrag bei einem Lehrer ab."
+    "answer": "Schüler erhalten ein kostenloses Microsoft 365-Paket. Gebe hierzu den ausgefüllten Antrag bei einem Lehrer ab. [[URL_FORMULAR_MICROSOFT_365]]"
 
+  },
+  {
+    "question": "Wo finde ich sonstige Dokumente zum Download?",
+    "answer": "Hier ist eine Übersicht: [[URL_DOWNLOADS_ROOT]]"
   },
 
   {
@@ -84,6 +96,14 @@
     "answer": "Es ist ein öffentliches Gymnasium in Detmold, benannt nach dem Dramatiker Christian Dietrich Grabbe. Es bietet Unterricht von Klasse 5 bis 13."
   },
   {
+    "question": "Wo kann ich die Lehrpläne einsehen?",
+    "answer": "Die aktuellen Lehrpläne findest du auf der Schulwebsite. [[URL_LEHRPLAENE]]"
+  },
+  {
+    "question": "Wo sehe ich alle Ansprechpartner?",
+    "answer": "Hier ist eine Übersicht über alle Ansprechpartner: [[URL_ORGANISATION_ANSPRECHPARTNER]]"
+  },
+  {
     "question": "Welche Schwerpunkte haben die Klassen am Grabbe-Gymnasium?",
     "answer": "Naturwissenschaft (gn), Kunst (k), Musik (m) und Sport (s). In Klasse 5/6 gibt es je eine Doppelstunde Projektunterricht in diesen Bereichen."
   },
@@ -93,7 +113,15 @@
   },
   {
     "question": "Wer ist für die Hausaufgabenbetreuung zuständig?",
-    "answer": "Frau Bossmanns koordiniert die Nachmittagsbetreuung. Du erreichst sie bei Fragen per E-Mail: b.bossmanns@grabbe.nrw.schule"
+    "answer": "Frau Bossmanns koordiniert die Nachmittagsbetreuung. Hier ist das Anmeldeformular: [[URL_FORM_HAUSBETREUUNG_5"
+  },
+  {
+    "question": "Wie melde ich mich für die Oberstufe an?",
+    "answer": "Hier ist das Formular: [[URL_FORM_ANMELDUNG_OBERSTUFE]]"
+  },
+  {
+    "question": "Wo finde ich das Anmeldeformular für die Klassen 6 bis 13?",
+    "answer": "Hier ist das Formular: [[URL_FORM_NEUAUFNAHME_6_13]]"
   },
   {
     "question": "Wie melde ich mein krankes Kind vom Unterricht ab?",
@@ -136,12 +164,20 @@
     "answer": "Ja, im Selbstlernzentrum (SLZ) kannst du Bücher ausleihen und in Ruhe arbeiten."
   },
   {
-    "question": "Wann ist der Tag der offenen Tür?",
-    "answer": "Einmal jährlich, meist Anfang des Jahres."
+    "question": "Wann ist der nächste Tag der offenen Tür?",
+    "answer": "Januar 2026"
+  },
+  {
+    "question": "Wo kann ich mich über das Leitbild informieren?",
+    "answer": "Das Leitbild findest du hier: [[URL_LEITBILD]]"
+  },
+  {
+    "question": "Wo sehe ich offene Stellen?",
+    "answer": "Offene Stellen findest du hier: [[URL_OFFENE_STELLEN]]"
   },
   {
     "question": "Wie kann man sich über Nachmittagsangebote und AGs informieren?",
-    "answer": "Listen zu AGs oder Arbeitsgemeinschaften erhältst du über das Sekretariat oder die Aushänge."
+    "answer": "Hier ist die Liste mit den AGs: [[URL_AG_OVERVIEW]] [[URL_NACHMITTAGSANGEBOT]]"
   },
   {
     "question": "Welche Austauschprogramme gibt es?",
@@ -157,7 +193,11 @@
   },
   {
     "question": "Wie funktioniert die Bestellung von Schulbüchern?",
-    "answer": "Die Bücherbestellung wird zentral organisiert (z. B. von Herrn Rieche)."
+    "answer": "Hier ist eine Übersicht der anzuschaffenden Schulbücher: [[URL_BUCHBESTELLUNG]]"
+  },
+  {
+    "question": "Wo kann ich die Aufgabe des Monats an Herrn Rieche abgeben?",
+    "answer": "Das geht am besten auf seiner Website [[URL_RIECHE_HOMEPAGE]]"
   },
   {
     "question": "Gibt es Ganztagsangebote oder Nachmittagsbetreuung?",
@@ -177,7 +217,7 @@
   },
   {
     "question": "Wie melde ich mein krankes Kind vom Unterricht ab (alternative Nummer)?",
-    "answer": "Du kannst das Sekretariat auch unter 05231–9926288 anrufen. Anschließend bitte eine schriftliche Entschuldigung nachreichen."
+    "answer": "Du kannst das Sekretariat auch unter 05231–9926288 anrufen. Anschließend bitte eine schriftliche Entschuldigung nachreichen. Hier sind weitere Hinweise: [[URL_KRANKMELDUNG_5_10]]"
   },
   {
     "question": "Was mache ich, wenn mein Kind an der Hausaufgabenbetreuung teilnimmt und krank ist?",
@@ -209,7 +249,7 @@
   },
   {
     "question": "Wer kann bei Fragen oder Feedback zu GrabbeAI kontaktiert werden?",
-    "answer": "Bei Fragen oder Feedback: finnbusse@outlook.de"
+    "answer": "Bei Fragen oder Feedback an den Ersteller von GrabbeAI wenden: finnbusse@outlook.de"
   },
 
   {
@@ -227,7 +267,7 @@
   },
   {
     "question": "Wer ist der Hausmeister?",
-    "answer": "Herr Hauptstein, kein Lehrer. Per Mail über hausmeister@grabbe.nrw.schule"
+    "answer": "Jens Hauptstein, kein Lehrer. Per Mail über hausmeister@grabbe.nrw.schule"
   },
   {
     "question": "Wer ist der Mittelstufenkoordinator?",
@@ -323,7 +363,7 @@
   },
   {
     "question": "Wie alt bist du?",
-    "answer": "Gemma 2 wurde am 27. Juni 2024 veröffentlicht, mein Training startete am 3. Juli 2024."
+    "answer": "Ich wurde im Januar 2025 fertiggestellt."
   },
   {
     "question": "Welche Schulzeiten gelten?",
@@ -351,7 +391,7 @@
   },
   {
     "question": "Darf man das Tablet statt Stift/Papier nutzen?",
-    "answer": "Ab Klasse 7 darfst du es, wenn du dich an die Nutzungsregeln hältst."
+    "answer": "Ab Klasse 7 darfst du es, wenn du dich an die Nutzungsregeln hältst. Dazu dieses Formular ausfüllen: [[URL_TABLET_KNIGGE]]"
   },
   {
     "question": "Wo hängen die Vertretungspläne?",
@@ -383,15 +423,19 @@
   },
   {
     "question": "Welche AGs gibt es?",
-    "answer": "Fußball, Kunst, Musik, Theater und weitere."
+    "answer": "Fußball, Kunst, Musik, Theater und weitere. [[URL_AG_OVERVIEW]]"
+  },Ma
+  {
+    "question": "Wie melde ich mich vom Religionsunterricht abmelden?",
+    "answer": "Hier ist das Formular: [[URL_FORM_ABMELDUNG_RELIGION]]"
   },
   {
     "question": "Wie werden Eltern über den Fortschritt informiert?",
     "answer": "Über Elternsprechtage, Elternabende und direkte Gespräche."
   },
   {
-    "question": "Wie ist das Aufnahmeverfahren?",
-    "answer": "Zur Anmeldewoche Termin bei der Schulleitung vereinbaren."
+    "question": "Wie melde ich mein Kind für die neue 5. Klasse an?",
+    "answer": "Über das Online-Formular: [[URL_TERMIN_ANMELDUNG]]. Das Anmeldeformular ist hier: [[URL_FORM_ANMELDUNG_JG5]]."
   },
   {
     "question": "Gibt es Förderungen für naturwissenschaftliche Interessen?",
@@ -410,6 +454,10 @@
     "answer": "In Klasse 9/10 Wahlpflichtfach Informatik, aber keine separate AG."
   },
   {
+    "question": "Welche Materialien benötigt mein Kind in Klasse 5?",
+    "answer": "Hier ist die Materialliste: [[URL_MATERIALLISTE_KLASSE_5]]"
+  },
+  {
     "question": "Wie melde ich mich zu Förderkursen an?",
     "answer": "Über die Fachlehrer oder Klassenleitung."
   },
@@ -420,6 +468,10 @@
   {
     "question": "Wo findet Schwimmen statt?",
     "answer": "Im nahen Hallenbad Aqualip in der 5. und 7. Klasse."
+  },
+  {
+    "question": "Wo finde ich Einzelheiten zum Förderkonzept?",
+    "answer": "In folgendem Dokument: [[URL_FOERDERKONZEPT]]"
   },
   {
     "question": "Welche Ferien gibt es?",
