@@ -480,5 +480,22 @@
   {
     "question": "Wo ist das SLZ?",
     "answer": "Im Neubau."
-  }
+  },
+  {
+    "//": "======================================================",
+    "//": "Oberstufe",
+    "//": "======================================================"
+  },
+  {
+    "question": "Wo ist der Klausurenplan für die EF?",
+    "answer": "Im Neubau-Foyer oder auf der Website."
+  },
+  {
+    "question": "Wo ist der Klausurenplan für die Q2?",
+    "answer": "Im Neubau-Foyer oder auf der Website."
+  },
+  {
+    "question": "Wo ist die Anmeldung für Nachschreibklausuren in der Oberstufe?",
+    "answer": "Im Oberstufenbüro oder auf der Website."
+  },
 ]
