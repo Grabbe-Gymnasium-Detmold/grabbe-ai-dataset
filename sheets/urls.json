@@ -180,5 +180,21 @@
     "name": "HALBJAHR_ZEUGNISSE",
     "description": "Zeugnissausgabe 2025 (Halbjahr) und Beginn des zweiten Halbjahres",
     "url": "Freitag, den 07.02.2025"
+  },
+
+  {
+    "name": "URL_KLAUSURPLAN_EF",
+    "description": "Klausurplan der EF",
+    "url": "http://grabbe-gymnasium.de/oberstufe2/userfiles/downloads/Klausurplan%20EF_1_SJ%202024_25_neu.pdf"
+  },
+  {
+    "name": "URL_KLAUSURPLAN_Q2,
+    "description": "Klausurplan der Q2",
+    "url": "http://grabbe-gymnasium.de/oberstufe2/userfiles/downloads/Klausurplan%20Q2_2_SJ%202024_25.pdf"
+  },
+  {
+    "name": "URL_NACHSCHREIBKLAUSUR_ANMELDUNG",
+    "description": "Anmeldung zur Nachschreibklausur in der Oberstufe",
+    "url": "http://grabbe-gymnasium.de/oberstufe2/userfiles/downloads/Antrag%20Nachschreibklausur_2023.pdf"
   }
 ]
