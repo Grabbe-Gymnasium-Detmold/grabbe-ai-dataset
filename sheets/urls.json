@@ -196,5 +196,15 @@
     "name": "URL_NACHSCHREIBKLAUSUR_ANMELDUNG",
     "description": "Anmeldung zur Nachschreibklausur in der Oberstufe",
     "url": "http://grabbe-gymnasium.de/oberstufe2/userfiles/downloads/Antrag%20Nachschreibklausur_2023.pdf"
+  },
+  {
+    "name": "URL_ENTSCHULDIGUNGEN_OBERSTUFE",
+    "description": "Entschuldigungsformular für die Oberstufe (bitte beidseitig ausdrucken)",
+    "url": "http://grabbe-gymnasium.de/oberstufe2/images/file/Entschuldigungsformular_neu_2014.pdf"
+  },
+  {
+    "name": "URL_BEURLAUBUNG_ANTRAG_OBERSTUFE",
+    "description": "Antrag auf Beurlaubung für die Oberstufe",
+    "url": "http://grabbe-gymnasium.de/oberstufe2/images/file/Antrag%20auf%20Beurlaubung(4).pdf?PHPSESSID=p1es3f4fgf9qrb4dsp3uu66mf1"
   }
 ]
