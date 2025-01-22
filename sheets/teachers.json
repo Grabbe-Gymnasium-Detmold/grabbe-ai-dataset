@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Heiner Beckmann",
+    "subjects": ["Deutsch", "Erdkunde", "Sport"],
+    "email": "h.beckmann@grabbe.nrw.schule"
+  },
+  {
+    "name": "Beate Bossmanns",
+    "subjects": ["Deutsch", "Englisch", "Latein"],
+    "email": "b.bossmanns@grabbe.nrw.schule"
+  },
+  {
+    "name": "Thomas Borowek",
+    "subjects": ["Sozialwissenschaften", "Sport"],
+    "email": "t.borowek@grabbe.nrw.schule"
+  },
+  {
+    "name": "Tanja Brentrup-Lappe",
+    "subjects": ["Deutsch", "Englisch"],
+    "email": "t.brentrup-lappe@grabbe.nrw.schule"
+  },
+  {
+    "name": "Julia Brieden",
+    "subjects": ["Deutsch", "Erdkunde"],
+    "email": "j.brieden@grabbe.nrw.schule"
+  },
+  {
+    "name": "Hans-Martin Chee",
+    "subjects": ["Deutsch", "Englisch"],
+    "email": "h.chee@grabbe.nrw.schule"
+  },
+  {
+    "name": "Silke Chtchian",
+    "subjects": ["Physik", "Chemie", "Nawi"],
+    "email": "s.chtchian@grabbe.nrw.schule"
+  },
+  {
+    "name": "Ana Colton-Sonnenberg",
+    "subjects": ["Englisch", "Spanisch"],
+    "email": "a.colton-sonnenberg@grabbe.nrw.schule"
+  },
+  {
+    "name": "Frauke Dreessen",
+    "subjects": ["Biologie", "Sport"],
+    "email": "f.dreessen@grabbe.nrw.schule"
+  },
+  {
+    "name": "Bastian von den Eichen",
+    "subjects": ["Kunst"],
+    "email": "b.von-den-eichen@grabbe.nrw.schule"
+  },
+  {
+    "name": "Ronja Emminghaus",
+    "subjects": ["Lateinisch", "Sozialwissenschaften"],
+    "email": "r.emminghaus@grabbe.nrw.schule"
+  },
+  {
+    "name": "Stefanie Engelskirchen",
+    "subjects": ["Englisch", "Musik"],
+    "email": "s.engelskirchen@grabbe.nrw.schule"
+  },
+  {
+    "name": "Kirsten Fernandez",
+    "subjects": ["Deutsch", "Musik"],
+    "email": "k.fernandez@grabbe.nrw.schule"
+  },
+  {
+    "name": "Heike Fiedler",
+    "subjects": ["Englisch", "Geschichte"],
+    "email": "h.fiedler@grabbe.nrw.schule"
+  },
+  {
+    "name": "Elke Fischer",
+    "subjects": ["Deutsch", "Englisch"],
+    "email": "e.fischer@grabbe.nrw.schule"
+  },
+  {
+    "name": "Miriam Folkmann-Clases",
+    "subjects": ["Biologie", "Kunst"],
+    "email": "m.folkmann-clases@grabbe.nrw.schule"
+  },
+  {
+    "name": "Katrin Anne Gerhardt",
+    "subjects": ["Deutsch", "Erziehungswissenschaften"],
+    "email": "k.gerhardt@grabbe.nrw.schule"
+  },
+  {
+    "name": "Marc-Philipp Geßner",
+    "subjects": ["Sport"],
+    "email": "m.gessner@grabbe.nrw.schule"
+  },
+  {
+    "name": "Hannes Göke",
+    "subjects": ["Deutsch", "Sport"],
+    "email": "h.goeke@grabbe.nrw.schule"
+  },
+  {
+    "name": "Michael Gruhl",
+    "subjects": ["Sport"],
+    "email": "m.gruhl@grabbe.nrw.schule"
+  },
+  {
+    "name": "Helga Güther",
+    "subjects": ["Deutsch", "Englisch", "Deutsch als Fremdsprache"],
+    "email": "h.guether@grabbe.nrw.schule"
+  },
+  {
+    "name": "Anna Hauenschild",
+    "subjects": ["Mathematik", "Philosophie"],
+    "email": "a.hauenschild@grabbe.nrw.schule"
+  },
+  {
+    "name": "Elisabeth Hecker",
+    "subjects": ["Chemie", "Kunst"],
+    "email": "e.hecker@grabbe.nrw.schule"
+  },
+  {
+    "name": "Claus Hilbing",
+    "subjects": ["Mathematik", "Chemie", "Naturwissenschaften"],
+    "email": "c.hilbing@grabbe.nrw.schule"
+  },
+  {
+    "name": "Henning Hinder",
+    "subjects": ["Geschichte", "Spanisch"],
+    "email": "h.hinder@grabbe.nrw.schule"
+  },
+  {
+    "name": "Birthe Holste-Dörksen",
+    "subjects": ["Deutsch", "Geschichte", "Evangelische Religionslehre"],
+    "email": "b.holste-doerksen@grabbe.nrw.schule"
+  },
+  {
+    "name": "Dirk Hoffmann",
+    "subjects": ["Lateinisch", "Mathematik"],
+    "email": "d.hoffmann@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jaantje Jaklin",
+    "subjects": ["Deutsch als Zweitsprache", "Deutsch", "Geschichte"],
+    "email": "j.jaklin@grabbe.nrw.schule"
+  },
+  {
+    "name": "Annika Janßen",
+    "subjects": ["Biologie", "Kunst"],
+    "email": "a.janssen@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jannika Jesse",
+    "subjects": ["Sport", "Wirtschaft-Politik"],
+    "email": "j.jesse@grabbe.nrw.schule"
+  },
+  {
+    "name": "Hauke Kottisch",
+    "subjects": ["Kunst", "Englisch"],
+    "email": "h.kottisch@grabbe.nrw.schule"
+  },
+  {
+    "name": "Sonja Knöbl",
+    "subjects": ["Geschichte", "Evangelische Religionslehre"],
+    "email": "s.knoebl@grabbe.nrw.schule"
+  },
+  {
+    "name": "Julia Carina Knüppel",
+    "subjects": ["Latein", "Spanisch", "Informatik"],
+    "email": "j.knueppel@grabbe.nrw.schule"
+  },
+  {
+    "name": "Simone Krächter",
+    "subjects": ["Deutsch", "Musik"],
+    "email": "s.kraechter@grabbe.nrw.schule"
+  },
+  {
+    "name": "Vanessa Krug",
+    "subjects": ["Deutsch", "Mathematik"],
+    "email": "v.krug@grabbe.nrw.schule"
+  },
+  {
+    "name": "Laura Kustin",
+    "subjects": ["Deutsch", "Erdkunde"],
+    "email": "l.kustin@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jacqueline Mäling",
+    "subjects": ["Kunst"],
+    "email": "j.maeling@grabbe.nrw.schule"
+  },
+  {
+    "name": "Maia Carolin Rosa",
+    "subjects": ["Deutsch", "Katholische Religion", "Latein"],
+    "email": "c.rosa-maia@grabbe.nrw.schule"
+  },
+  {
+    "name": "Barbara Mannebach",
+    "subjects": ["Deutsch", "Englisch", "Praktische Philosophie"],
+    "email": "b.mannebach@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jens Markmann",
+    "subjects": ["Biologie", "Geschichte"],
+    "email": "j.markmann@grabbe.nrw.schule"
+  },
+  {
+    "name": "Kerstin Meiring",
+    "subjects": ["Französisch", "Geschichte"],
+    "email": "k.meiring@grabbe.nrw.schule"
+  },
+  {
+    "name": "Annegret Niehus-Berkemann",
+    "subjects": ["Kunst", "Evangelische Religion"],
+    "email": "a.niehus-berkemann@grabbe.nrw.schule"
+  },
+  {
+    "name": "Beate Nowak",
+    "subjects": ["Geschichte", "Katholische Religion"],
+    "email": "b.nowak@grabbe.nrw.schule"
+  },
+  {
+    "name": "Kristina Panchyrz",
+    "subjects": ["Geschichte", "Latein", "Praktische Philosophie"],
+    "email": "k.panchyrz@grabbe.nrw.schule"
+  },
+  {
+    "name": "Janine Patzke",
+    "subjects": ["Biologie", "Sport"],
+    "email": "j.patzke@grabbe.nrw.schule"
+  },
+  {
+    "name": "Antje Pentinghaus",
+    "subjects": ["Deutsch", "Französisch"],
+    "email": "a.pentinghaus@grabbe.nrw.schule"
+  },
+  {
+    "name": "Claudia Irene Pelz",
+    "subjects": ["Englisch", "Latein", "Deutsch"],
+    "email": "c.pelz@grabbe.nrw.schule"
+  },
+  {
+    "name": "Christoph Günther Perder",
+    "subjects": ["Deutsch", "Sozialwissenschaften"],
+    "email": "c.perder@grabbe.nrw.schule"
+  },
+  {
+    "name": "Stephan Rieche",
+    "subjects": ["Mathematik", "Evangelische Religion"],
+    "email": "s.rieche@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jan-Christian Ritz",
+    "subjects": ["Geschichte", "Evangelische Religionslehre"],
+    "email": "j.ritz@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jens Rüffer",
+    "subjects": ["Mathematik", "Physik"],
+    "email": "j.rueffer@grabbe.nrw.schule"
+  },
+  {
+    "name": "Alina Schneider",
+    "subjects": ["Chemie", "Mathematik", "Pädagogik"],
+    "email": "a.schneider@grabbe.nrw.schule"
+  },
+  {
+    "name": "Stefanie Seidel",
+    "subjects": ["Deutsch", "Pädagogik"],
+    "email": "s.seidel@grabbe.nrw.schule"
+  },
+  {
+    "name": "Felix Schilling",
+    "subjects": ["Mathematik", "Physik"],
+    "email": "f.schilling@grabbe.nrw.schule"
+  },
+  {
+    "name": "Barbara Schröder",
+    "subjects": ["Latein", "Erziehungswissenschaften"],
+    "email": "b.schroeder@grabbe.nrw.schule"
+  },
+  {
+    "name": "Nadine Schlottmann",
+    "subjects": ["Deutsch", "Philosophie", "Praktische Philosophie"],
+    "email": "n.schlottmann@grabbe.nrw.schule"
+  },
+  {
+    "name": "Gerhard Sossnierz",
+    "subjects": ["Geschichte", "Sozialwissenschaften"],
+    "email": "g.sossnierz@grabbe.nrw.schule"
+  },
+  {
+    "name": "Jan Oliver Sprenger",
+    "subjects": ["Biologie", "Evangelische Religion"],
+    "email": "j.sprenger@grabbe.nrw.schule"
+  },
+  {
+    "name": "Tobias Stender",
+    "subjects": ["Mathematik", "Physik"],
+    "email": "t.stender@grabbe.nrw.schule"
+  },
+  {
+    "name": "Tobias Stölting",
+    "subjects": ["Erdkunde", "Musik"],
+    "email": "t.stoelting@grabbe.nrw.schule"
+  },
+  {
+    "name": "Johannes Stüer-Wiegard",
+    "subjects": ["Englisch", "Geschichte"],
+    "email": "j.stueer@grabbe.nrw.schule"
+  },
+  {
+    "name": "Anja Vothknecht",
+    "subjects": ["Englisch", "Latein", "Evangelische Religion"],
+    "email": "a.vothknecht@grabbe.nrw.schule"
+  },
+  {
+    "name": "Hella de Vries",
+    "subjects": ["Deutsch", "Englisch"],
+    "email": "h.de-vries@grabbe.nrw.schule"
+  },
+  {
+    "name": "Leonie Wagner",
+    "subjects": ["Deutsch", "Englisch"],
+    "email": "l.wagner@grabbe.nrw.schule"
+  },
+  {
+    "name": "Viktoria Walla",
+    "subjects": ["Französisch", "Sport"],
+    "email": "v.walla@grabbe.nrw.schule"
+  },
+  {
+    "name": "Yvonne Stefanie Walter",
+    "subjects": ["Deutsch", "Kunst"],
+    "email": "y.walter@grabbe.nrw.schule"
+  },
+  {
+    "name": "Julia Weber",
+    "subjects": ["Informatik", "Sozialwissenschaften"],
+    "email": "j.weber@grabbe.nrw.schule"
+  },
+  {
+    "name": "Florian Wessel",
+    "subjects": ["Deutsch", "Musik"],
+    "email": "f.wessel@grabbe.nrw.schule"
+  },
+  {
+    "name": "Sabine Barbara Wimmer-Leuders",
+    "subjects": ["Deutsch", "Katholische Religion"],
+    "email": "s.wimmer-leuders@grabbe.nrw.schule"
+  },
+  {
+    "name": "Markus Wischer",
+    "subjects": ["Musik", "Chemie"],
+    "email": "m.wischer@grabbe.nrw.schule"
+  },
+  {
+    "name": "Julia Wodarz",
+    "subjects": ["Französisch", "Sport"],
+    "email": "j.wodarz@grabbe.nrw.schule"
+  },
+  {
+    "name": "Frauke Wormuth",
+    "subjects": ["Französisch", "Spanisch"],
+    "email": "f.wormuth@grabbe.nrw.schule"
+  }
+]
