@@ -90,5 +90,33 @@
   {
     "name": "Sommerferien 2025",
     "date": "12.07.2025 - 26.08.2025"
+  },
+  {
+    "name": "ZP 10 Deutsch",
+    "date": "27.05.2025"
+  },
+  {
+    "name": "ZP 10 Englisch",
+    "date": "03.06.2025"
+  },
+  {
+    "name": "ZP 10 Mathe",
+    "date": "05.06.2025"
+  },
+  {
+    "name": "Nachtermin ZP 10 Deutsch",
+    "date": "12.06.2025"
+  },
+  {
+    "name": "Nachtermin ZP 10 Englisch",
+    "date": "13.06.2025"
+  },
+  {
+    "name": "ZP 10 Ergebnisverkündung",
+    "date": "23.06.2025"
+  },
+  {
+    "name": "ZP 10 mündliche Prüfungen",
+    "date": "01.07.2025"
   }
 ]
