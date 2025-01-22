@@ -9,7 +9,7 @@ const openai = new OpenAI({
 });
 
 // Konfigurationsvariablen
-const vectorStoreId = 'vs_aISnXuyx3qVySKPH11bU7D0y'; // Deine Vector Store ID
+const vectorStoreId = 'vs_aISnXuyx3qVySKPH11bU7D0y'; // Neue Vector Store ID
 const githubRepoUrl = 'https://github.com/Grabbe-Gymnasium-Detmold/grabbe-ai-dataset/tree/main/sheets';
 const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der heruntergeladenen Dateien
 
@@ -55,37 +55,35 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
         const uploadedFiles = [];
 
         for (const filename of fs.readdirSync(tempFolder)) {
-    const filePath = path.join(tempFolder, filename);
-    const fileStream = fs.createReadStream(filePath);
+            const filePath = path.join(tempFolder, filename);
+            const fileStream = fs.createReadStream(filePath);
 
-    // Datei zu OpenAI hochladen (ohne filename-Parameter)
-    const fileResponse = await openai.files.create({
-        file: fileStream,
-        purpose: 'assistants', // Zweck bleibt gleich
-    });
+            // Datei zu OpenAI hochladen
+            const fileResponse = await openai.files.create({
+                file: fileStream,
+                purpose: 'assistants', // Zweck bleibt gleich
+            });
 
-    const fileId = fileResponse.id;
-    uploadedFiles.push(fileId);
+            const fileId = fileResponse.id;
+            uploadedFiles.push(fileId);
 
-    // Datei mit dem Vector Store verknüpfen
-    await openai.beta.vectorStores.files.create(
-        vectorStoreId,
-        {
-            file_id: fileId,
-            chunking_strategy: {
-                type: 'static',
-                static: {
-                    max_chunk_size_tokens: 165,
-                    chunk_overlap_tokens: 25,
-                },
-            },
-        }
-    );
+            // Datei mit dem Vector Store verknüpfen
+            await openai.beta.vectorStores.files.create(
+                vectorStoreId,
+                {
+                    file_id: fileId,
+                    chunking_strategy: {
+                        type: 'static',
+                        static: {
+                            max_chunk_size_tokens: 165,
+                            chunk_overlap_tokens: 25,
+                        },
+                    },
+                }
+            );
 
-    actionsLog.push({ action: 'upload', fileName: filename, fileId, status: 'success' });
-    console.log(`📤 Uploaded: ${filename}`);
-}
-
+            actionsLog.push({ action: 'upload', fileName: filename, fileId, status: 'success' });
+            console.log(`📤 Uploaded: ${filename}`);
         }
         console.log('✅ Files uploaded to Vector Store.');
 
