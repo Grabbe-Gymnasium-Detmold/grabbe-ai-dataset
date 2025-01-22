@@ -1,0 +1,31 @@
+name: OpenAI Dataset Upload
+
+on:
+  push:
+    branches:
+      - main  # Workflow bei jedem Push auf "main" ausführen
+
+jobs:
+  upload-dataset:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Repository-Checkout
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      # Node.js einrichten
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # Abhängigkeiten installieren
+      - name: Install dependencies
+        run: npm install
+
+      # Dataset zu OpenAI hochladen
+      - name: Upload Dataset to OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/uploadDataset.js
