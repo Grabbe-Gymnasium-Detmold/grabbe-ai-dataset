@@ -16,7 +16,7 @@
   },
   {
     "name": "URL_FORMULAR_MICROSOFT_365",
-    "description": "Antrag auf das kostenlose Microsoft 365-Paket (exakt angeben)",
+    "description": "Antrag auf das kostenlose Microsoft 365-Paket (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/Einwilligung_Daten_12_2024.pdf"
   },
   {
@@ -93,27 +93,27 @@
   /* ---------- Aus der zweiten Datenblock-Liste (Formulare etc.) ---------- */
   {
     "name": "URL_FORM_ANMELDUNG_JG5",
-    "description": "Anmeldeformular für Jahrgangsstufe 5 (exakt angeben)",
+    "description": "Anmeldeformular für Jahrgangsstufe 5 (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/2526_Anmeldeformular_Jg.5.pdf"
   },
   {
     "name": "URL_EINWILLIGUNG_DATEN",
-    "description": "Einwilligung für IServ und mehr (exakt angeben)",
+    "description": "Einwilligung für IServ und mehr (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/Einwilligung_Daten_12_2024.pdf"
   },
   {
     "name": "URL_FORM_HAUSBETREUUNG_5",
-    "description": "Anmeldeformular Hausaufgabenbetreuung (5. Klasse) (exakt angeben)",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (5. Klasse) (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Neuanmeldung5er.pdf"
   },
   {
     "name": "URL_FORM_HAUSBETREUUNG_6",
-    "description": "Anmeldeformular Hausaufgabenbetreuung (6. Klasse) (exakt angeben)",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (6. Klasse) (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Anmeldung6er.pdf"
   },
   {
     "name": "URL_SEPA_HABETREUUNG",
-    "description": "Zahlungsschein SEPA für Hausaufgabenbetreuung (exakt angeben)",
+    "description": "Zahlungsschein SEPA für Hausaufgabenbetreuung (exakt unverändert mit den 3 Punkten (/...) angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/SEPA.pdf"
   },
   {
