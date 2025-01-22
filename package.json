@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Script to upload dataset to OpenAI Vector Store",
   "main": "scripts/uploadDataset.js",
-  "type": "module",  // Aktiviert ES Modules
+  "type": "module",
   "scripts": {
     "start": "node scripts/uploadDataset.js"
   },
   "dependencies": {
-    "axios": "^1.4.0",  // HTTP-Anfragen für GitHub
-    "openai": "^4.0.0"  // OpenAI API-SDK
+    "axios": "^1.4.0",
+    "openai": "^4.0.0"
   },
   "author": "",
   "license": "ISC"
@@ -19,13 +19,13 @@
   "version": "1.0.0",
   "description": "Script to upload dataset to OpenAI Vector Store",
   "main": "scripts/uploadDataset.js",
-  "type": "module",  // Aktiviert ES Modules
+  "type": "module",
   "scripts": {
     "start": "node scripts/uploadDataset.js"
   },
   "dependencies": {
-    "axios": "^1.4.0",  // HTTP-Anfragen für GitHub
-    "openai": "^4.0.0"  // OpenAI API-SDK
+    "axios": "^1.4.0",
+    "openai": "^4.0.0"
   },
   "author": "Finn Busse",
   "license": "ISC"
