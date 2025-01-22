@@ -9,7 +9,7 @@ const openai = new OpenAI({
 });
 
 // Konfigurationsvariablen
-const vectorStoreId = 'vs_aISnXuyx3qVySKPH11bU7D0y'; // Neue Vector Store ID
+const vectorStoreId = 'vs_aISnXuyx3qVySKPH11bU7D0y'; // Vector Store ID
 const githubRepoUrl = 'https://github.com/Grabbe-Gymnasium-Detmold/grabbe-ai-dataset/tree/main/sheets';
 const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der heruntergeladenen Dateien
 
@@ -50,42 +50,45 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
         }
         console.log('✅ Files downloaded from GitHub.');
 
-        // Schritt 3: Neue Dateien in den Vector Store hochladen
+        // Schritt 3: Dateien einzeln hochladen
         console.log('⬆️ Uploading files to Vector Store...');
-        const uploadedFiles = [];
-
         for (const filename of fs.readdirSync(tempFolder)) {
-            const filePath = path.join(tempFolder, filename);
-            const fileStream = fs.createReadStream(filePath);
+            try {
+                const filePath = path.join(tempFolder, filename);
+                const fileStream = fs.createReadStream(filePath);
 
-            // Datei zu OpenAI hochladen
-            const fileResponse = await openai.files.create({
-                file: fileStream,
-                purpose: 'assistants', // Zweck bleibt gleich
-            });
+                // Datei zu OpenAI hochladen
+                console.log(`🔄 Uploading: ${filename}`);
+                const fileResponse = await openai.files.create({
+                    file: fileStream,
+                    purpose: 'assistants',
+                });
 
-            const fileId = fileResponse.id;
-            uploadedFiles.push(fileId);
+                const fileId = fileResponse.id;
 
-            // Datei mit dem Vector Store verknüpfen
-            await openai.beta.vectorStores.files.create(
-                vectorStoreId,
-                {
-                    file_id: fileId,
-                    chunking_strategy: {
-                        type: 'static',
-                        static: {
-                            max_chunk_size_tokens: 165,
-                            chunk_overlap_tokens: 25,
+                // Datei mit dem Vector Store verknüpfen
+                await openai.beta.vectorStores.files.create(
+                    vectorStoreId,
+                    {
+                        file_id: fileId,
+                        chunking_strategy: {
+                            type: 'static',
+                            static: {
+                                max_chunk_size_tokens: 165,
+                                chunk_overlap_tokens: 25,
+                            },
                         },
-                    },
-                }
-            );
+                    }
+                );
 
-            actionsLog.push({ action: 'upload', fileName: filename, fileId, status: 'success' });
-            console.log(`📤 Uploaded: ${filename}`);
+                actionsLog.push({ action: 'upload', fileName: filename, fileId, status: 'success' });
+                console.log(`✅ Uploaded: ${filename}`);
+            } catch (error) {
+                console.error(`❌ Error uploading ${filename}:`, error.message);
+                actionsLog.push({ action: 'upload', fileName: filename, status: 'error', message: error.message });
+            }
         }
-        console.log('✅ Files uploaded to Vector Store.');
+        console.log('✅ All files processed.');
 
         // Schritt 4: Temporäre Dateien löschen
         console.log('🧹 Cleaning up temporary files...');
@@ -99,7 +102,7 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
         process.exit(0); // Erfolg
     } catch (error) {
         console.error('❌ Error during dataset upload process:', error.message);
-        console.error(error.stack);
+        console.error('Details:', error.response ? error.response.data : error.stack);
 
         // Fehlerhafte Rückgabe mit Fehlerdetails
         console.log(JSON.stringify({
