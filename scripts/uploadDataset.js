@@ -3,10 +3,9 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
-// Initialisiere die OpenAI-Instanz mit erweitertem Timeout
+// Initialisiere die OpenAI-Instanz
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY, // API-Schlüssel aus Umgebungsvariable
-    timeout: 120000, // Timeout auf 2 Minuten erhöht
 });
 
 // Konfigurationsvariablen
@@ -59,13 +58,10 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
             const filePath = path.join(tempFolder, filename);
             const fileStream = fs.createReadStream(filePath);
 
-            // Wartezeit für Rate Limit
-            await new Promise((resolve) => setTimeout(resolve, 1000)); // 1 Sekunde warten
-
             // Datei zu OpenAI hochladen
             const fileResponse = await openai.files.create({
                 file: fileStream,
-                purpose: 'assistants',
+                purpose: 'assistants', // Standardzweck
             });
 
             const fileId = fileResponse.id;
