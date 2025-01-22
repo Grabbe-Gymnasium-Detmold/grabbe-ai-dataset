@@ -16,7 +16,7 @@
   },
   {
     "name": "URL_FORMULAR_MICROSOFT_365",
-    "description": "Antrag auf das kostenlose Microsoft 365-Paket",
+    "description": "Antrag auf das kostenlose Microsoft 365-Paket (exakt angeben)",
     "url": "http://grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/Einwilligung_Daten_12_2024.pdf"
   },
   {
@@ -47,7 +47,7 @@
   {
     "name": "URL_RIECHE_HOMEPAGE",
     "description": "Homepage von Herrn Rieche (Aufgabe des Monats, Kopfübungen etc.)",
-    "url": "http://s-rieche.de"
+    "url": "https://s-rieche.de"
   },
   {
     "name": "URL_JAHRESKALENDER",
@@ -93,27 +93,27 @@
   /* ---------- Aus der zweiten Datenblock-Liste (Formulare etc.) ---------- */
   {
     "name": "URL_FORM_ANMELDUNG_JG5",
-    "description": "Anmeldeformular für Jahrgangsstufe 5",
+    "description": "Anmeldeformular für Jahrgangsstufe 5 (exakt angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/2526_Anmeldeformular_Jg.5.pdf"
   },
   {
     "name": "URL_EINWILLIGUNG_DATEN",
-    "description": "Einwilligung für IServ und mehr",
+    "description": "Einwilligung für IServ und mehr (exakt angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...Anmelde-Unterlagen/Einwilligung_Daten_12_2024.pdf"
   },
   {
     "name": "URL_FORM_HAUSBETREUUNG_5",
-    "description": "Anmeldeformular Hausaufgabenbetreuung (5. Klasse)",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (5. Klasse) (exakt angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Neuanmeldung5er.pdf"
   },
   {
     "name": "URL_FORM_HAUSBETREUUNG_6",
-    "description": "Anmeldeformular Hausaufgabenbetreuung (6. Klasse)",
+    "description": "Anmeldeformular Hausaufgabenbetreuung (6. Klasse) (exakt angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/Anmeldung6er.pdf"
   },
   {
     "name": "URL_SEPA_HABETREUUNG",
-    "description": "Zahlungsschein SEPA für Hausaufgabenbetreuung",
+    "description": "Zahlungsschein SEPA für Hausaufgabenbetreuung (exakt angeben)",
     "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/...HA-Betreuung/SEPA.pdf"
   },
   {
