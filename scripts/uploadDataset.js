@@ -3,10 +3,10 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
-// Initialisiere die OpenAI-Instanz mit Timeout
+// Initialisiere die OpenAI-Instanz mit erweitertem Timeout
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY, // API-Schlüssel aus Umgebungsvariable
-    timeout: 60000, // Timeout auf 60 Sekunden gesetzt
+    timeout: 120000, // Timeout auf 2 Minuten erhöht
 });
 
 // Konfigurationsvariablen
@@ -103,7 +103,7 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
         process.exit(0); // Erfolg
     } catch (error) {
         console.error('❌ Error during dataset upload process:', error.message);
-        console.error(error.stack);
+        console.error('Details:', error.response ? error.response.data : error.stack);
 
         // Fehlerhafte Rückgabe mit Fehlerdetails
         console.log(JSON.stringify({
