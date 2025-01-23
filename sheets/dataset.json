@@ -429,7 +429,7 @@
   },
   {
     "question": "Welche AGs gibt es?",
-    "answer": "Fußball, Kunst, Musik, Theater und weitere. Mehr Infos auf der Website."
+    "answer": "Schach, Fußball, Kunst, Musik, Theater und weitere. Eine Liste auf der Website."
   },
   {
     "question": "Wie melde ich mich vom Religionsunterricht abmelden?",
@@ -515,5 +515,5 @@
   {
     "question": "Wo ist die Anmeldung für Nachschreibklausuren in der Oberstufe?",
     "answer": "Im Oberstufenbüro oder auf der Website."
-  },
+  }
 ]
