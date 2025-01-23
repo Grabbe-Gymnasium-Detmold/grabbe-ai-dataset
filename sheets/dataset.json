@@ -164,10 +164,6 @@
     "answer": "Ja, im Selbstlernzentrum (SLZ) kannst du Bücher ausleihen und in Ruhe arbeiten."
   },
   {
-    "question": "Wann ist der nächste Tag der offenen Tür?",
-    "answer": "Januar 2026"
-  },
-  {
     "question": "Wo kann ich mich über das Leitbild informieren?",
     "answer": "Das Leitbild findest du auf unserer Website."
   },
@@ -250,6 +246,10 @@
   {
     "question": "Wer kann bei Fragen oder Feedback zu GrabbeAI kontaktiert werden?",
     "answer": "Bei Fragen oder Feedback an den Ersteller von GrabbeAI wenden: finnbusse@outlook.de"
+  },
+  {
+    "question": "An wen kann ich mich bei Mobbing wenden?",
+    "answer": "Bei Mobbing kannst du dich an unsere Schulsozialarbeiterin Sylvia Möbus wenden."
   },
 
   {
