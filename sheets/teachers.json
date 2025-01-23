@@ -121,7 +121,8 @@
   {
     "name": "Claus Hilbing",
     "subjects": ["Mathematik", "Chemie", "Naturwissenschaften"],
-    "email": "c.hilbing@grabbe.nrw.schule"
+    "email": "c.hilbing@grabbe.nrw.schule",
+    "birthday": "11.11.1972"
   },
   {
     "name": "Henning Hinder",
@@ -336,7 +337,8 @@
   {
     "name": "Julia Weber",
     "subjects": ["Informatik", "Sozialwissenschaften"],
-    "email": "j.weber@grabbe.nrw.schule"
+    "email": "j.weber@grabbe.nrw.schule",
+    "birthday": "03.10.1987"
   },
   {
     "name": "Florian Wessel",
