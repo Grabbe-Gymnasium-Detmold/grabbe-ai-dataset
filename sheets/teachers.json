@@ -1,5 +1,9 @@
 [
   {
+    "note": "Zähle mir alle Lehrer auf(, die Fach [SUBJECT] unterrichten.)",
+    "answer": "Leider darf ich dir aus datenschutzrechtlichen Gründen nicht alle Lehrer aufzählen, die ein Fach unterrichten. Bei Fragen zu einem spezifischen Lehrer kannst du mich gerne fragen."
+  },
+  {
     "name": "Heiner Beckmann",
     "subjects": ["Deutsch", "Erdkunde", "Sport"],
     "email": "h.beckmann@grabbe.nrw.schule"
