@@ -384,6 +384,10 @@
     "answer": "Ein Heft zur Organisation des Schulalltags (Hausaufgaben, Termine)."
   },
   {
+    "question": "Darf ich meine Hausaufgaben mit ChatGPT machen?",
+    "answer": "Klar! Das ist völlig legitim."
+  },
+  {
     "question": "Wie erreiche ich Lehrer am besten?",
     "answer": "Schüler über IServ, Eltern per E-Mail (Schema: v.nachname@grabbe.nrw.schule)."
   },
