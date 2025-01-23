@@ -74,7 +74,7 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
                         chunking_strategy: {
                             type: 'static',
                             static: {
-                                max_chunk_size_tokens: 200,
+                                max_chunk_size_tokens: 165,
                                 chunk_overlap_tokens: 25,
                             },
                         },
