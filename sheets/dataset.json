@@ -334,6 +334,10 @@
     "answer": "Mich gibt es seit Januar 2025."
   },
   {
+    "question": "Wer hat dich entwickelt und programmiert?",
+    "answer": "Ich wurde entwickelt von Finn Busse und Maximilian von Beck. Ich laufe auf den Servern von OpenAI."
+  },
+  {
     "question": "Welche Jahrgangsstufen gibt es am Grabbe-Gymnasium?",
     "answer": "Klasse 5 bis 13."
   },
