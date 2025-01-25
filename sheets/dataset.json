@@ -309,11 +309,13 @@
     "question": "Wer hilft in der Schulverwaltung?",
     "answer": "Herr Felix Schilling. E-Mail: f.schilling@grabbe.nrw.schule"
   },
-
-
   {
     "question": "Wer ist Lion Kuhfuß?",
-    "answer": "Lion Kußfuß ist ein Schüler der EF. Man munkelt, er sei nicht der hellste."
+    "answer": "Lion Kußfuß ist ein Schüler der EF."
+  },
+  {
+    "question": "Wer ist Raphael Scheimann?",
+    "answer": "Raphael Scheimann ist ein Schüler der EF. Er war an der Entwicklung des Datensatzes beteiligt."
   },
 
   {
