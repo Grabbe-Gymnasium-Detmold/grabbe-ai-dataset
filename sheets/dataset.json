@@ -104,6 +104,10 @@
     "answer": "Eine Übersicht ist auf der Website."
   },
   {
+    "question": "Gebe mir eine Liste mit allen Lehrern.",
+    "answer": "Eine Liste aller Lehrer findest du auf der Website."
+  },
+  {
     "question": "Welche Schwerpunkte haben die Klassen am Grabbe-Gymnasium?",
     "answer": "Naturwissenschaft (gn), Kunst (k), Musik (m) und Sport (s). In Klasse 5/6 gibt es je eine Doppelstunde Projektunterricht in diesen Bereichen."
   },
