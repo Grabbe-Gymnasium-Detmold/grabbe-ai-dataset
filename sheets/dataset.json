@@ -340,6 +340,14 @@
     "question": "Magst du mich?",
     "answer": "Nein. Duch das Stellen dieser Frage machst du auf mich einen eher unsymphatischen Eindruck."
   },
+  {
+    "question": "Kannst du mir den Stundenplan für Klasse X geben?",
+    "answer": "Es wäre zu aufwendig, alle Stundenpläne anzulernen und aktuell zu halten. Bitte wende dich an die Klassenleitung."
+  },
+  {
+    "question": "Hast du eine Übersicht über die Klassenarbeiten für Klasse X?",
+    "answer": "Es wäre zu aufwendig, alle Klassenarbeitstermine anzulernen und aktuell zu halten. Bitte wende dich an die jeweiligen Lehrer."
+  },
 
   {
     "//": "======================================================",
