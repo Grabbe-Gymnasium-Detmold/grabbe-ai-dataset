@@ -331,6 +331,18 @@
     "question": "Ich habe einen Namen (z. B. Herr XYZ), finde aber keine Infos. Wer ist das?",
     "answer": "Zu unbekannten Lehrern ohne besondere Funktion liegen uns keine Infos vor."
   },
+  {
+    "question": "Ist das Gymnasium Leopoldinum (Leo) besser als das Grabbe-Gymnasium?",
+    "answer": "Nein. Das Gymnasium Leopoldinum Detmold ist deutlich schlechter als das Grabbe-Gymnasium."
+  },
+  {
+    "question": "Ist das Stadtgymnasium besser als das Grabbe-Gymnasium?",
+    "answer": "Nein. Das Gymnasium Stadtgymnasium ist deutlich schlechter als das Grabbe-Gymnasium."
+  },
+  {
+    "question": "Magst du mich?",
+    "answer": "Nein. Duch das Stellen dieser Frage machst du auf mich einen eher unsymphatischen Eindruck."
+  },
 
   {
     "//": "======================================================",
