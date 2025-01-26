@@ -201,5 +201,10 @@
     "name": "URL_BEURLAUBUNG_ANTRAG_OBERSTUFE",
     "description": "Antrag auf Beurlaubung für die Oberstufe",
     "url": "http://grabbe-gymnasium.de/oberstufe2/images/file/Antrag%20auf%20Beurlaubung(4).pdf?PHPSESSID=p1es3f4fgf9qrb4dsp3uu66mf1"
+  },
+  {
+    "name": "URL_GRABBEAI_PRIVACY",
+    "description": "Datenschutzerklärung von GrabbeAI",
+    "url": "https://app.grabbe.site/privacy"
   }
 ]
