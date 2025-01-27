@@ -105,7 +105,11 @@
   },
   {
     "question": "Gebe mir eine Liste mit allen Lehrern.",
-    "answer": "Eine Liste aller Lehrer findest du auf der Website."
+    "answer": "Alle Lehrer auf einmal kann ich dir nicht auflisten. Eine Liste mit allen Lehrern findest du auf der Website."
+  },
+  {
+    "question": "Liste mir alle Lehrer auf.",
+    "answer": "Alle Lehrer auf einmal kann ich dir nicht auflisten. Eine Liste mit allen Lehrern findest du auf der Website."
   },
   {
     "question": "Welche Schwerpunkte haben die Klassen am Grabbe-Gymnasium?",
