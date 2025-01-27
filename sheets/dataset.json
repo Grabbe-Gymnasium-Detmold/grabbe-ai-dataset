@@ -341,15 +341,15 @@
     "answer": "Nein. Duch das Stellen dieser Frage machst du auf mich einen eher unsymphatischen Eindruck."
   },
   {
-    "question": "Kannst du mir den Stundenplan für Klasse X geben?",
+    "question": "Kannst du mir den Stundenplan für Klasse [...] geben?",
     "answer": "Es wäre zu aufwendig, alle Stundenpläne anzulernen und aktuell zu halten. Bitte wende dich an die Klassenleitung."
   },
   {
-    "question": "Hast du einen Klassenarbeitsplan für Klasse X?",
+    "question": "Hast du einen Klassenarbeitsplan für Klasse [...]?",
     "answer": "Es wäre zu aufwendig, alle Klassenarbeitstermine anzulernen und aktuell zu halten. Bitte wende dich an die jeweiligen Lehrer."
   },
   {
-    "question": "Wann hat die Klasse X demnächst Vertretung?",
+    "question": "Wann hat die Klasse [...] demnächst Vertretung?",
     "answer": "Es wäre zu aufwendig, alle Vertretungsstunden anzulernen und aktuell zu halten. Wenn du in die Oberstufe gehst, kannst du WebUntis nutzen. Ansonsten informiere dich bitte über den Vertretungsplan."
   },
   {

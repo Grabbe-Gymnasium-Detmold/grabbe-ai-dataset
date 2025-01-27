@@ -206,5 +206,10 @@
     "name": "URL_GRABBEAI_PRIVACY",
     "description": "Datenschutzerklärung von GrabbeAI",
     "url": "https://app.grabbe.site/privacy"
+  },
+  {
+    "name": "URL_LEHRER_EMAILS",
+    "description": "Liste mit allen Lehrern und ihren Fächern und E-Mailadressen",
+    "url": "http://www.grabbe-gymnasium.de/userfiles/downloads/Lehrerliste%202024-25.pdf"
   }
 ]
