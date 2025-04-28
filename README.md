@@ -6,12 +6,6 @@
 
 
 
-
-
-
-
-
-
 # GrabbeAI Datensatz
 
 
