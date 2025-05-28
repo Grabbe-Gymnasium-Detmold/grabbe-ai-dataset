@@ -1,8 +1,5 @@
 
 
-
-
-
 # GrabbeAI Datensatz
 
 
