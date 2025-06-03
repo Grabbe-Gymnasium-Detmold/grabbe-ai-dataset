@@ -17,19 +17,24 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
     const actionsLog = []; // Array zum Protokollieren der Schritte
 
     try {
-        console.log('🚀 Starting dataset upload process...');
+        console.log('🚀 Starte den Upload-Prozess des Datasets...');
 
         // Schritt 1: Bestehende Dateien aus dem Vector Store entfernen
-        console.log('🗑️ Removing existing files from Vector Store...');
-        const listResponse = await openai.beta.vectorStores.files.list(vectorStoreId);
+        console.log('🗑️ Entferne vorhandene Dateien aus dem Vector Store...');
+        const listResponse = await openai.vectorStores.files.list(vectorStoreId);
+
+        if (!listResponse || !Array.isArray(listResponse.data)) {
+            throw new Error(`Unerwartete API-Antwortstruktur: ${JSON.stringify(listResponse)}`);
+        }
+
         for (const file of listResponse.data) {
-            await openai.beta.vectorStores.files.del(vectorStoreId, file.id);
+            await openai.vectorStores.files.del(vectorStoreId, file.id);
             actionsLog.push({ action: 'delete', fileId: file.id, status: 'success' });
         }
-        console.log('✅ Existing files removed.');
+        console.log('✅ Vorhandene Dateien entfernt.');
 
         // Schritt 2: Dateien aus GitHub herunterladen
-        console.log('⬇️ Downloading files from GitHub...');
+        console.log('⬇️ Lade Dateien von GitHub herunter...');
         const apiUrl = githubRepoUrl
             .replace('github.com', 'api.github.com/repos')
             .replace('/tree/main', '/contents');
@@ -45,20 +50,20 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
                 const filePath = path.join(tempFolder, file.name);
                 fs.writeFileSync(filePath, fileResponse.data);
                 actionsLog.push({ action: 'download', fileName: file.name, status: 'success' });
-                console.log(`📁 Downloaded: ${file.name}`);
+                console.log(`📁 Heruntergeladen: ${file.name}`);
             }
         }
-        console.log('✅ Files downloaded from GitHub.');
+        console.log('✅ Dateien von GitHub heruntergeladen.');
 
         // Schritt 3: Dateien einzeln hochladen
-        console.log('⬆️ Uploading files to Vector Store...');
+        console.log('⬆️ Lade Dateien in den Vector Store hoch...');
         for (const filename of fs.readdirSync(tempFolder)) {
             try {
                 const filePath = path.join(tempFolder, filename);
                 const fileStream = fs.createReadStream(filePath);
 
                 // Datei zu OpenAI hochladen
-                console.log(`🔄 Uploading: ${filename}`);
+                console.log(`🔄 Lade hoch: ${filename}`);
                 const fileResponse = await openai.files.create({
                     file: fileStream,
                     purpose: 'assistants',
@@ -67,41 +72,38 @@ const tempFolder = './temp_sheets'; // Temporäres Verzeichnis zum Speichern der
                 const fileId = fileResponse.id;
 
                 // Datei mit dem Vector Store verknüpfen
-                await openai.beta.vectorStores.files.create(
-                    vectorStoreId,
-                    {
-                        file_id: fileId,
-                        chunking_strategy: {
-                            type: 'static',
-                            static: {
-                                max_chunk_size_tokens: 165,
-                                chunk_overlap_tokens: 25,
-                            },
+                await openai.vectorStores.files.create(vectorStoreId, {
+                    file_id: fileId,
+                    chunking_strategy: {
+                        type: 'static',
+                        static: {
+                            max_chunk_size_tokens: 165,
+                            chunk_overlap_tokens: 25,
                         },
-                    }
-                );
+                    },
+                });
 
                 actionsLog.push({ action: 'upload', fileName: filename, fileId, status: 'success' });
-                console.log(`✅ Uploaded: ${filename}`);
+                console.log(`✅ Hochgeladen: ${filename}`);
             } catch (error) {
-                console.error(`❌ Error uploading ${filename}:`, error.message);
+                console.error(`❌ Fehler beim Hochladen von ${filename}:`, error.message);
                 actionsLog.push({ action: 'upload', fileName: filename, status: 'error', message: error.message });
             }
         }
-        console.log('✅ All files processed.');
+        console.log('✅ Alle Dateien verarbeitet.');
 
         // Schritt 4: Temporäre Dateien löschen
-        console.log('🧹 Cleaning up temporary files...');
+        console.log('🧹 Bereinige temporäre Dateien...');
         fs.rmSync(tempFolder, { recursive: true, force: true });
         actionsLog.push({ action: 'cleanup', folder: tempFolder, status: 'success' });
-        console.log('✅ Temporary files cleaned up.');
+        console.log('✅ Temporäre Dateien bereinigt.');
 
         // Erfolgreiche Rückgabe
-        console.log('🎉 Dataset upload process completed successfully!');
+        console.log('🎉 Upload-Prozess des Datasets erfolgreich abgeschlossen!');
         console.log(JSON.stringify({ status: 'success', actionsLog }, null, 2));
         process.exit(0); // Erfolg
     } catch (error) {
-        console.error('❌ Error during dataset upload process:', error.message);
+        console.error('❌ Fehler während des Upload-Prozesses des Datasets:', error.message);
         console.error('Details:', error.response ? error.response.data : error.stack);
 
         // Fehlerhafte Rückgabe mit Fehlerdetails
